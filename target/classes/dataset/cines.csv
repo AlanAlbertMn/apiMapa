@@ -1,0 +1,825 @@
+comp_cine_id,comp_cine_nombre,comp_cine_npantallas,estado_id,nom_ent,municipio_id,nom_mun,localidad_id,nom_loc,comp_cine_calle_numero,comp_cine_colonia,comp_cine_cp,gmaps_longitud,gmaps_latitud
+1,Cinépolis Altaria,10,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Blvd. a Zacatecas Norte 849,Col. Trojes de Alonso,20116,-102.28993,21.92495
+879,Cinépolis Espacio Aguascalientes,8,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Av. Principal s/n,Ejido Ojo Caliente,20198,-102.26224,21.88064
+5,Cinépolis Sur Aguascalientes,12,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Blvd. José María Chávez 1809 ,Fracc. Prados de Villasunción,20280,-102.29296,21.85234
+2,Cinemex Expoplaza Aguascalientes,10,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Rayón esq. Rincón s/n,Centro,20000,-102.30676,21.87624
+4,Cinemex Aguacalientes,10,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Independencia 2351 ,Col. Trojes de Alonso,20130,-102.2975,21.92364
+3,Cinépolis VIP Altaria,10,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Blvd. Zacatecas Nte. 849,Col. Trojes de Alonso,20116,-102.2893,21.92435
+425,Cinemas Kristal,7,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Av. Adolfo López Mateos Ote. 1001 ,Col. San Luis,20250,-102.28096,21.87822
+663,Sala Alternativa Auditorium,1,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Av. Héroe de Nacozari Sur 902,U. H. IV Centenario,20260,-102.28145,21.87208
+880,Cinépolis Velaria Mall,7,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Av. de los Maestros 2615,Fracc. Nueva España,20200,-102.3169,21.85846
+6,Cinépolis Aguascalientes,14,1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,Av. Aguascalientes 1601 Pte. esq. Canal Interceptor,Fracc. Fundición,20230,-102.31516,21.9039
+667,Intercinemas Calvillo,2,1,Aguascalientes,3,Calvillo,1,Calvillo,Av. Benito Juárez 209,Centro,20800,-102.71682,21.84705
+7,Cinépolis Plaza Marina,11,2,Baja California,1,Ensenada,1,Ensenada,Blvd. Costero 656,Zona Centro,22800,-116.62716,31.86146
+8,Cinépolis Macroplaza del Mar,12,2,Baja California,1,Ensenada,1,Ensenada,"Av. Pedro Loyola ext. 612, loc. 1-B Mz. 54",Col. Carlos Pacheco,22830,-116.60306,31.82138
+11,Cinépolis Galerias del Valle Mexicali,12,2,Baja California,2,Mexicali,1,Mexicali,Calz. Lázaro Cárdenas 2200,Col. El Porvenir,21220,-115.50729,32.62192
+9,Cinemex Mundo Divertido Mexicali,7,2,Baja California,2,Mexicali,1,Mexicali,Blvd. Adolfo López Mateos 856,Col. Zona Industrial,21150,-115.47793,32.65586
+13,Cinépolis Nuevo Mexicali,12,2,Baja California,2,Mexicali,1,Mexicali,Prol. calle novena s/n,Col. Nuevo Mexicali,21399,-115.38608,32.61299
+15,Cinépolis Plaza Centenario,12,2,Baja California,2,Mexicali,1,Mexicali,"Blvd. Lázaro Cárdenas 2139, local 1",Fracc. Residencia esq. Benito Juárez,21280,-115.44296,32.62488
+10,Cinépolis Plaza San Pedro Mexicali,12,2,Baja California,2,Mexicali,1,Mexicali,"Calz. Cetys 1801, int. 1",Col. Rivera,21259,-115.41321,32.65544
+14,Cinemex Mexicali,14,2,Baja California,2,Mexicali,1,Mexicali,Blvd. Lázaro Cárdenas 2000,Col. Plutarco Elías Calles ,21376,-115.40682,32.62326
+12,Cinépolis  Mexicali Centro Cívico,11,2,Baja California,2,Mexicali,1,Mexicali,Av. de los Héroes y Libertad s/n,Centro Cívico,21000,-115.47209,32.64539
+18,Cinépolis Tecate,7,2,Baja California,3,Tecate,1,Tecate,"Blvd. Nuevo León 700, local 40",Col. El Pedregal,21460,-116.63424,32.56601
+26,Cinépolis Carrousel,12,2,Baja California,4,Tijuana,1,Tijuana,Blvd. Gustavo Díaz Ordaz 15602,Fracc. Las Brisas,22610,-116.95962,32.4981
+20,Cinemex Mundo Divertido Tijuana,6,2,Baja California,4,Tijuana,1,Tijuana,Vía Rápida Poniente 15035 ,Fracc. San José 2a. etapa,22610,-116.9568,32.50401
+24,Cinépolis Plaza Río Tijuana,14,2,Baja California,4,Tijuana,1,Tijuana,Av. Paseo de los héroes 9550 local C-2 Altos,Zona Río,22320,-117.01817,32.52681
+582,Oasis Cinemex,9,2,Baja California,4,Tijuana,1,Tijuana,Av. Baja California 23911,Fracc. Real de San Francisco,22235,-116.85394,32.48582
+544,Cinemex Pacífico ,8,2,Baja California,4,Tijuana,1,Tijuana,Libramiento Oriente 7501,Parque Industrial Pacifico,22643,-116.99374,32.47482
+29,Cinépolis Playa Tijuana,8,2,Baja California,4,Tijuana,1,Tijuana,"Paseo Ensenada 502, int. 36",Sección Coronado,22505,-117.11353,32.53172
+798,Cinépolis Galerías Hipódromo,8,2,Baja California,4,Tijuana,1,Tijuana,Calle Agua Caliente 11999,Hipodromo Agua Caliente,22024,-116.99298,32.5084
+25,Cinemex Macroplaza Tijuana,9,2,Baja California,4,Tijuana,1,Tijuana,Blvd. Insurgentes 18015,Rio Tijuana 3a. Etapa,22226,-116.93345,32.49381
+23,Cinépolis Plaza Monarca,14,2,Baja California,4,Tijuana,1,Tijuana,Blvd. Manuel J. Clouthier 18561,Fracc. Lago Sur,22550,-116.93323,32.49268
+911,"Cineteca del Centro Cultural Tijuana, Sala Carlos Monsiváis",1,2,Baja California,4,Tijuana,1,Tijuana,Paseos de los Héroes 9350 ,Zona Urbana Río Tijuana,22010,-117.02328,32.52978
+801,Gran Cinema,1,2,Baja California,4,Tijuana,1,Tijuana,Emiliano Zapata 8012,Centro,22000,-117.03551,32.53184
+27,Cinépolis Paseo 2000,10,2,Baja California,4,Tijuana,1,Tijuana,Corredor Tijuana - Rosarito 26135,Col. Francisco Villa,22235,-116.85202,32.49241
+28,Cinépolis Plaza Americana Otay,10,2,Baja California,4,Tijuana,1,Tijuana,Calz. Tecnológico 2100-64,Col. Otay Constituyentes,22457,-116.95079,32.5346
+505,Cinépolis La Pajarita,5,2,Baja California,4,Tijuana,1,Tijuana,"Calle Oriente 7002, Santa Fe I",Portico de San Antonio,22420,-117.03567,32.44462
+795,Cinemex Pavilion Zona Río,7,2,Baja California,4,Tijuana,1,Tijuana,Paseo de los Héroes 9111,Zona Urbana Rio Tijuana,22010,-117.02651,32.53039
+21,Cinemex Loma Bonita,8,2,Baja California,4,Tijuana,1,Tijuana,Blvd. Agua Azul 7200,Col. Loma Bonita Norte,22180,-117.05216,32.4834
+22,Cinemex Plaza Minarete,10,2,Baja California,4,Tijuana,1,Tijuana,Blvd. Sánchez Taboada 4555,Col. Zona del Río,22320,-117.00806,32.51606
+799,Cinépolis VIP Galerías Hipódromo,4,2,Baja California,4,Tijuana,1,Tijuana,Agua Caliente núm. 11999 ,Col. Hipódromo de Agua Caliente,22024,-116.99297,32.50841
+19,Cinépolis Vip Plaza Río,5,2,Baja California,4,Tijuana,1,Tijuana,"Av. Paseo de los Héroes 9550, local 133",Col. Zona del Río,22320,-117.01885,32.52676
+16,Cinépolis Pabellón Rosarito,10,2,Baja California,5,Playas de Rosarito,1,Playas de Rosarito,Blvd. Benito Juárez 300,Col. Reforma,22710,-117.05845,32.37693
+30,Cinépolis La Paz,15,3,Baja California Sur,3,La Paz,1,La Paz,Blvd. Forjadores de Sudcalifornia 4215,Fracc. Ex Base Aérea ,23081,-110.31195,24.1263
+587,Cinépolis Paseo La Paz,5,3,Baja California Sur,3,La Paz,1,La Paz,Gral. Agustin Olachea Aviles  1515 Local F ,San Antonio el Zacatal,23090,-110.33695,24.11678
+584,Cinemex La Paz,7,3,Baja California Sur,3,La Paz,1,La Paz,"Av. Constituyentes 1975,Plaza Punto La Paz",Col. Algodón,23090,-110.33383,24.13962
+804,Cinemex Platino La Paz,3,3,Baja California Sur,3,La Paz,1,La Paz,Av. Constituyentes 1975 núm. 4120,Col. Capullo,23090,-110.33385,24.13958
+805,Cinépolis Shoppes,8,3,Baja California Sur,3,La Paz,1,La Paz,"Calz. Gral. Agustín Olachea núm. 8010, Int. SA-02",Col. El Zacatal,23088,-110.34002,24.11445
+32,Cinépolis Patio Los Cabos,10,3,Baja California Sur,8,Los Cabos,1,San José del Cabo,Av. Las Brisas 2404,Col. Brisas del Pacífico,23473,-109.93422,22.90478
+31,Cinépolis Cabo,8,3,Baja California Sur,8,Los Cabos,1,San José del Cabo,Blvd. Mauricio Castro 1738,Col. Club de Golf Fonatur,23400,-109.70173,23.05329
+585,Cinemex Cabo San Lucas,10,3,Baja California Sur,8,Los Cabos,54,Cabo San Lucas,Blvd Lázaro Cárrdenas 17,El Medano Ejidal Marina,23450,-109.91004,22.88696
+803,Cinemex Puerto Paraíso Platino ,4,3,Baja California Sur,8,Los Cabos,54,Cabo San Lucas,Blvd. Lázaro Cárdenas s/n,Col. El Emdano,23410,-109.91002,22.88695
+437,Cinépolis VIP Galerías Campeche,3,4,Campeche,2,Campeche,1,San Francisco de Campeche,Av. Pedro Sainz de Baranda 139,Col. Campeche,24000,-90.52371,19.85666
+436,Cinépolis Galerías Campeche,11,4,Campeche,2,Campeche,1,San Francisco de Campeche,Av. Pedro Sainz de Baranda 139,Col. San Francisco de Campeche,24000,-90.52289,19.85672
+790,Cinépolis Zentralia,7,4,Campeche,3,Carmen,1,Ciudad del Carmen,Av. Corregidora 26,Col. Aeropuerto,24199,-91.80785,18.6523
+791,Cinépolis Zentralia VIP Ciudad del Carmen,3,4,Campeche,3,Carmen,1,Ciudad del Carmen,Av. Corregidora 26,Col. Aeropuerto,24199,-91.80747,18.65187
+500,Cinemex Palmira,10,4,Campeche,3,Carmen,1,Ciudad del Carmen,Carr. Puerto Real Km 2.5,Col. Palmiras,24154,-91.79091,18.65736
+33,Cinemex Cd. del Carmen Platino,6,4,Campeche,3,Carmen,1,Ciudad del Carmen,Predio Urbano s/n local 35 esq. Av. Periférica Nte. y Av. Concordia,Col. Asa Pte.,24197,-91.81298,18.65056
+761,Cine Atlantis,1,4,Campeche,4,Champotón,1,Champotón,Calle 5,Col. la Playa,24400,-90.7308,19.34479
+59,Cinépolis Ciudad Acuña,8,5,Coahuila de Zaragoza,2,Acuña,1,Ciudad Acuña,Lib. Emilio Mendoza Cisneros 2000,Col. Aeropuerto,26230,-100.9767,29.32671
+61,Cinemex Monclova,8,5,Coahuila de Zaragoza,18,Monclova,1,Monclova,Av. Huemac esq. Av. Brasil,Col. Anahuac,25750,-101.43744,26.90041
+691,Río Cinemas Azteca,4,5,Coahuila de Zaragoza,18,Monclova,1,Monclova,Cuauhtémoc 311,Col. El Pueblo,25730,-101.41786,26.90799
+680,Río Cinemas Tecnológico,4,5,Coahuila de Zaragoza,25,Piedras Negras,1,Piedras Negras,Paseo de la Música s/n,Col. Tecnológico,26080,-100.55931,28.68999
+490,Cine Gemelos Cavisa,2,5,Coahuila de Zaragoza,25,Piedras Negras,1,Piedras Negras,Emiliano Carranza 1806,Col. Buena Vista Norte,26040,-100.53467,28.69445
+881,Cinemex Plaza Inova Piedras Negras,4,5,Coahuila de Zaragoza,25,Piedras Negras,1,Piedras Negras,"Manuel Pérez Treviño 2700, Lt. 1 Mz. 24",Col. Tecnológico,26001,-100.55821,28.68759
+654,Cinemex Ramos Arizpe,6,5,Coahuila de Zaragoza,27,Ramos Arizpe,1,Ramos Arizpe,Blvd. Plan de Guadalupe 1200,Col. Fidel Velázquez Pte.,25903,-100.94411,25.54865
+672,Río Cinemas Sabinas,4,5,Coahuila de Zaragoza,28,Sabinas,1,Sabinas,Cuauhtémoc 1661,Col. Fundadores,26740,-101.12345,27.86732
+771,Cinemex Galerías Saltillo Platino ,4,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Blvd. Nazario Ortiz Garza s/n esq. Dr. Lázaro de Benavides,Col. Villa Olímpica Nte.,25230,-100.98039,25.45752
+65,Cinépolis Sendero Saltillo,12,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,"Blvd. Jesús Valdez Sánchez 365, Ancla 3",Col. Ex hacienda de los Cerritos ,25010,-100.96048,25.44495
+62,Cinépolis VIP Sendero Saltillo,4,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,"Blvd. Jesús Valdéz Sánchez 365, Ancla 3",Col. Ex Hacienda de los Cerros ,25010,-100.96045,25.44496
+900,Cinépolis Sendero Saltillo Sur,10,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Carr. Saltillo Zacatecas esq. Blvd. Emilio Arizpe 403,Col. Froylán Mier Narro Amp.,25080,-101.01285,25.37847
+63,Cinemex Plaza Real Saltillo,6,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Veracruz 851,Col. República Norte,25280,-100.98378,25.44345
+651,Río Cinemas Alameda 6,6,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Alvaro Obregón 685 local 4,Centro,25000,-101.00692,25.42396
+676,Cinemex Galerías Saltillo,5,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Blvd. Nazario Ortiz Garza s/n esq. Dr. Lázaro de Benavides,Col. Villa Olímpica Nte.,25230,-100.98039,25.45752
+66,Cinépolis La Nogalera,14,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Perif. Luis Echeverría Álvarez 1474,Col. Lourdes,25070,-100.99602,25.38693
+777,Cinemex Periférico Sur,10,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,"Perif. Luis Echeverría Álvarez 1511, letra B Polígono 1",Col. Saltillo,25070,-100.99458,25.39098
+688,Cinemex Mirasierra,10,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Bvld. Fundadores 7540,Fracc. Ciudad Mirasierra,25016,-100.92215,25.43223
+650,Cine Olimpia,1,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Ignacio Allende 303,Centro,25000,-100.99721,25.43089
+499,Cine Palacio,1,5,Coahuila de Zaragoza,30,Saltillo,1,Saltillo,Guadalupe Victoria s/n,Centro,25000,-101.00378,25.423
+716,Río Cinemas Chapultepec,2,5,Coahuila de Zaragoza,32,San Juan de Sabinas,14,Nueva Rosita,Lopez Mateos s/n esq. Monterrey ,Col. Nuevo León,26830,-101.21783,27.93727
+715,Cine Teatro Hércules,1,5,Coahuila de Zaragoza,34,Sierra Mojada,1,Sierra Mojada,Av. del Olimpo s/n,Col. Hércules,27600,-103.7908,28.04192
+72,Cinemex Torreón,10,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Carr. Torreón-Matamoros Ote. 5000,Col. Provitec,27270,-103.3954,25.53488
+661,Citicinemas Torreón,10,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Blvd. Gral. Pedro Verona Rodríguez Triana 1950,La Merced II,27276,-103.39679,25.50813
+793,Cinépolis Vip Cuatro Caminos,4,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Blvd. Independencia 1300 Ote.,Col. Navarro,27010,-103.43315,25.5596
+70,Cinépolis Cuatro Caminos,9,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Blvd. Independencia 1300 Ote.,Col. Navarro,27010,-103.43315,25.5596
+878,Cinépolis VIP Galerías Laguna,6,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Av. Periférico Raúl López Sánchez 6000,Fracc. El Fresno,27018,-103.40141,25.58169
+71,Cinépolis Galerías Laguna,14,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Av. Periférico Raúl López Sánchez 6000,Fracc. El Fresno,27018,-103.40141,25.58169
+714,Cinemex Intermall,8,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,José Vasconcelos 1955,Col. Residencial Tecnológico,27276,-103.39466,25.51548
+792,Cinemex Intermall Platino ,4,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,José Vasconcelos 1955,Col. Residencial Tecnológico,27276,-103.39466,25.51548
+794,Citicinemas Torreón Premiere,2,5,Coahuila de Zaragoza,35,Torreón,1,Torreón,Blvd. Gral. Pedro Verona Rodríguez Triana 1950,La Merced II,27276,-103.39679,25.50813
+759,Cinema Micro 2001,1,6,Colima,2,Colima,1,Colima,Maclovio Herrera 47-A,Centro,28000,-103.72587,19.24665
+73,Cinépolis Zentralia,13,6,Colima,2,Colima,1,Colima,3er. Anillo Periférico 301,Col. Las Primaveras,28050,-103.72032,19.25313
+449,Cinépolis San Fernando,7,6,Colima,2,Colima,1,Colima,Av. Constitución 555,Col. Lomas de Circunvalación,28010,-103.71981,19.25295
+789,Cinemas del Country,9,6,Colima,2,Colima,1,Colima,Av. Felipe Sevilla del Río 201 int. 64,Col. Vista Hermosa,28017,-103.71452,19.2547
+74,Cinépolis Salagua Manzanillo,9,6,Colima,7,Manzanillo,1,Manzanillo,Paseo de las Gaviotas 450,Col. Valle de las Garzas,28219,-104.32597,19.10303
+75,Cinemex Colima,9,6,Colima,10,Villa de Álvarez,1,Ciudad de Villa de Álvarez,Av. María Ahumada de Gómez 371,Col. Campestre,28970,-103.73878,19.27247
+539,Cinépolis Plaza las Flores Comitán,7,7,Chiapas,19,Comitán de Domínguez,1,Comitán de Domínguez,"Blvd. de las Federaciones Km. 1260, núm. 50 Int. 4021, Subancla 4",Col. Chichima Acapetahua,30098,-92.11382,16.21664
+52,Cinépolis San Cristóbal,10,7,Chiapas,78,San Cristóbal de las Casas,1,San Cristóbal de las Casas,Diagonal Hermanos Paniagua 50,Barrio de San Ramón,29240,-92.65164,16.73377
+53,Cinépolis Tapachula,10,7,Chiapas,89,Tapachula,1,Tapachula de Córdova y Ordóñez,"km 2 Carr. Puerto Madero, zona C, local 7",Col. Hortalizas Japonesas,30797,-92.28155,14.87296
+541,Cinemex Tapachula,7,7,Chiapas,89,Tapachula,1,Tapachula de Córdova y Ordóñez,"Av. De la Juventud, esq. Blvd. Díaz Ordaz 182",Col. Coapante,30740,-92.24662,14.904
+54,Cinépolis Galerías Tapachula,10,7,Chiapas,89,Tapachula,1,Tapachula de Córdova y Ordóñez,"Carr. Tapachula - Puerto Madero, km 2.5",Col. Las Hortencias,30797,-92.28423,14.87578
+558,Cinépolis Plaza las Flores Tonalá,4,7,Chiapas,97,Tonalá,1,Tonalá,Prol. Blvd. Miguel Hidalgo 312,,,-93.77083,16.09946
+55,Cinépolis Plaza las Américas,10,7,Chiapas,101,Tuxtla Gutiérrez,1,Tuxtla Gutiérrez,Av. 5ta. Norte Poniente 265,Centro,29000,-93.13991,16.76295
+57,Cinépolis Polifórum,14,7,Chiapas,101,Tuxtla Gutiérrez,1,Tuxtla Gutiérrez,Blvd. Andrés Serra Rojas 250,Col. El Retiro,29040,-93.08135,16.74753
+58,Cinemex Galerías Tuxtla,8,7,Chiapas,101,Tuxtla Gutiérrez,1,Tuxtla Gutiérrez,Blvd. Dr. Belisario Domínguez 1861,Fracc. Bugambilias,29060,-93.14905,16.75225
+56,Cinépolis Plaza Mirador,10,7,Chiapas,101,Tuxtla Gutiérrez,1,Tuxtla Gutiérrez,Libramiento Norte Poniente 2851,Col. Miravalle,29039,-93.14042,16.76363
+50,Cinépolis Cuauhtémoc,8,8,Chihuahua,17,Cuauhtémoc,1,Cuauhtémoc,José de San Martín 1720 ,Fracc. San Antonio,31530,-106.85452,28.40932
+46,Cinemex Mirador,10,8,Chihuahua,19,Chihuahua,1,Chihuahua,Blvd. Ortiz Mena e Indiana 33000-D,Col. Las Águilas ,,-106.10012,28.6392
+561,Cinemex Juventud,5,8,Chihuahua,19,Chihuahua,1,Chihuahua,Av. De La Juventud 401,Col. Frac. Paseos De Chihuahua,31119,-106.12962,28.70452
+45,Cinemex Fuentes Mares,6,8,Chihuahua,19,Chihuahua,1,Chihuahua,Blvd. José Fuentes Mares 300,Col. Santa Rosa,31050,-106.05064,28.6217
+48,Cinépolis Fashion Mall,12,8,Chihuahua,19,Chihuahua,1,Chihuahua,"Periférico de la Juventud 3501, int. A3 ",Col. Puerta de Hierro I,31207,-106.11542,28.62247
+768,Cinemex Hollywood Platino Chihuahua,4,8,Chihuahua,19,Chihuahua,1,Chihuahua,Hacienda Esperanza y Periférico Juventud 7301,Col. Haciendas del Valle,31340,-106.12287,28.63149
+47,Cinemex Hollywood Chihuahua,8,8,Chihuahua,19,Chihuahua,1,Chihuahua,Hacienda Esperanza y Periférico Juventud 7301,Col. Haciendas del Valle,31340,-106.12287,28.63149
+44,Cinépolis VIP Fashion Mall,6,8,Chihuahua,19,Chihuahua,1,Chihuahua,Periférico de la Juventud 3501 int. A3,Col. Puerta de Hierro I,31207,-106.11542,28.62247
+560,Cinépolis Sendero Jabil Chihuahua,10,8,Chihuahua,19,Chihuahua,1,Chihuahua,,Complejo Industrial Chihuahua,31136,-106.11443,28.72209
+49,Cinépolis Chihuahua Av. Vallarta,14,8,Chihuahua,19,Chihuahua,1,Chihuahua,Zaragoza 1114 entre Tecnológico y Vallarta,Col. Granjas,31160,-106.10081,28.67376
+562,Cinemas Delicias,4,8,Chihuahua,21,Delicias,1,Delicias,Calle Central y Avenida 4a. Sur,Sector Sur,33000,-105.47445,28.19012
+51,Cinemex Delicias,8,8,Chihuahua,21,Delicias,1,Delicias,Av. del Parque Nte. 1000,Sector Oriente,33000,-105.46225,28.18623
+563,Cinépolis Escala Parral,7,8,Chihuahua,32,Hidalgo del Parral,1,Hidalgo del Parral,Av. Tecnológico 31,Guayín,33855,-105.64976,26.93414
+565,Cinemex Sanders,6,8,Chihuahua,37,Juárez,1,Juárez,Eduardo Sanders 1551,El Barreal,32040,-106.47019,31.72295
+37,Cinemex Plaza El Camino Cd. Juárez,10,8,Chihuahua,37,Juárez,1,Juárez,Av. Ejército Nacional 7595,Col. El Marquéz,32530,-106.41425,31.70241
+35,Cinemex Galerías TEC,14,8,Chihuahua,37,Juárez,1,Juárez,Av. Tecnológico 1770,Col. Fuentes del Valle,32500,-106.42127,31.71394
+41,Cinépolis Las Misiones,16,8,Chihuahua,37,Juárez,1,Juárez,Teofilo Borunda 8681,Col. Partido Iglesias,32618,-106.40835,31.68439
+42,Cinépolis Plaza Sendero Las Torres,16,8,Chihuahua,37,Juárez,1,Juárez,Av. de las Torres 2111,Col. Valle de Bravo,32000,-106.39429,31.62441
+43,Cinépolis VIP Las Misiones,8,8,Chihuahua,37,Juárez,1,Juárez,Teófilo Borunda 8681,Col. Partido Iglesias,32618,-106.40835,31.68439
+566,Cinépolis Las Américas Juárez,5,8,Chihuahua,37,Juárez,1,Juárez,Avenida Benjamín Franklin 3220,Las Margaritas,,-106.45194,31.74087
+38,Cinemex San Lorenzo,10,8,Chihuahua,37,Juárez,1,Juárez,Paseo Triunfo de la República 5298,Col. San Lorenzo,,-106.42669,31.73417
+36,Cinépolis Sendero Cd. Juárez,10,8,Chihuahua,37,Juárez,1,Juárez,Blvd. Gómez Morin 11219 ,Col. Partido Senecu,32540,-106.38129,31.69383
+40,Cinépolis Gran Patio Zaragoza,12,8,Chihuahua,37,Juárez,1,Juárez,Blvd. Zaragoza 6008,Parque Industrial Zaragoza,32685,-106.43958,31.6586
+570,Cine Variedades,1,8,Chihuahua,50,Nuevo Casas Grandes,1,Nuevo Casas Grandes,Minerva,Centro,31700,-107.91203,30.41696
+455,Cinemex Rosario,10,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Av. Cultura Norte 902,Centro Habitacional El Rosario,2700,-99.20049,19.5063
+456,Cinépolis Town Center El Rosario,16,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Av. El Rosario 1025,Col. El Rosario,2100,-99.20283,19.5038
+460,Xtra Cinemas Azcapotzalco,8,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,"Pabellón Ecatepec, Vía Morelos 351",Col. Industrial,55425,-99.18962,19.47382
+459,Cinépolis Plaza Parque Jardín,8,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Av. Jardín 330,Col. Del Gas,2950,-99.16063,19.46862
+457,Cinépolis Vía Vallejo,10,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Calz. Vallejo 1090,Col. Nueva Industrial Vallejo,2300,-99.15304,19.48828
+572,Cinemex Portal Vallejo,8,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Calzada Vallejo 304,Col. San Francisco Xocotitla,2960,-99.14478,19.4682
+458,Cinépolis VIP Vía Vallejo,4,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Calz. Vallejo 1090,Col. Nueva Industrial Vallejo,2300,-99.15341,19.48821
+454,Cinemex Clavería,6,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Av. Egipto 142,Col.  Clavería,2080,-99.18215,19.46388
+80,Cinépolis Azcapotzalco,6,9,Ciudad de México,2,Azcapotzalco,1,Azcapotzalco,Av. Azcapotzalco 527,Col. Azcapotzalco,2000,-99.18661,19.47792
+580,Cinépolis Copilco,12,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Eje 10 (copilco) Av. Pedro Henríquez Ureña 426,Pueblo de los Reyes,4330,-99.15786,19.33565
+465,Cinemex Tlalpan,8,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Calz. de Tlalpan 4085,Col. Bosques de Tetlameya,4730,-99.15003,19.29964
+91,Cinépolis Miramontes,15,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Canal de Miramontes 2053 ,Col. Los Girasoles III,4920,-99.12443,19.3104
+89,Cinemex CNA,12,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Lateral Río Churubusco esq. Canal de Miramontes s/n,Col. Country Club,4220,-99.13514,19.35588
+130,Cinemex Coapa,8,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Calz. del Hueso 519,Col. Residencial Acoxpa,14300,-99.12282,19.30297
+88,Cinépolis VIP Perisur,4,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Anillo Periférico Sur 4690,Col. Jardines del Pedregal,4500,-99.19084,19.30453
+92,Cinépolis Perisur,16,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Anillo Periférico Sur 4690,Col. Jardines del Pedregal,4500,-99.19084,19.30453
+466,Cinépolis VIP Oasis Coyoacán,4,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Av. Miguel Ángel de Quevedo 227,Col. Romero de Terrenos,4310,-99.18029,19.34539
+90,Cinemex Gran Sur,12,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Periférico Sur 5550,Col. Pedregal de Carrasco,4300,-99.16617,19.30454
+17,Cinépolis Oasis Coyoacán,8,9,Ciudad de México,3,Coyoacán,1,Coyoacán,Av. Miguel Ángel de Quevedo 227,Col. Romero de Terreros,4310,-99.1803,19.34539
+94,Cinépolis Paseo Arcos Bosques,7,9,Ciudad de México,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Paseo de los Tamarindos 90,Col. Bosques de las Lomas,5120,-99.25172,19.38751
+93,Cinépolis VIP Paseo Arcos Bosques,5,9,Ciudad de México,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Paseo de los Tamarindos 90,Col. Bosques de las Lomas,5120,-99.25197,19.38641
+95,Cinemex Santa Fe,15,9,Ciudad de México,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Av. Vasco de Quiroga 3800,Col. Santa Fe,5349,-99.27374,19.36279
+467,Cinemex Platino Santa Fe,8,9,Ciudad de México,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Av. Vasco de Quiroga 3800,Col. Santa Fe,,-99.27403,19.36272
+109,Cinemex Misterios,10,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Río Consulado 1688,Col. Vallejo,7870,-99.12673,19.462
+839,Cinépolis VIP Encuentro Fortuna,4,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Av Fortuna Eje 4 Norte 334,Col. Magdalena de las Salinas,7370,-99.13327,19.48272
+110,Cinemex Parque Lindavista,11,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Colector 13 núm. 280,Col. Magdalena de las Salinas,7760,-99.13081,19.48679
+112,Cinépolis Torres Lindavista,10,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Othón Mendizábal Oriente 343,Col. Nueva Industrial Vallejo,7700,-99.14389,19.5061
+111,Cinemex Ticomán,14,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Prol. Escuadrón 201 núm. 200 ,Barrio La Purísima,55400,-99.14198,19.51638
+106,Cinépolis Plaza Tepeyac,6,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Calz. de Guadalupe 431,Col. Guadalupe Tepeyac,7840,-99.11863,19.47151
+107,Cinemex Tenayuca,9,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Av. Miguel Bernand 1187,,,-99.15613,19.52987
+113,Cinépolis Plaza Oriente,4,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Av. Eduardo Molina 1623,Col. El Coyol,7420,-99.09328,19.48523
+108,Cinemex Aragón,12,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,San Juan de Aragón 516 ,Col. La Cruz,7070,-99.09559,19.48097
+576,Cinépolis Encuentro Fortuna,8,9,Ciudad de México,5,Gustavo A. Madero,1,Gustavo A. Madero,Av Fortuna Eje 4 Norte 334,Col. Magdalena de las Salinas,7370,-99.13318,19.4827
+120,Cinépolis Plaza Central,16,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Canal del Río Churubusco 1635,Col. Central de Abasto,9040,-99.09516,19.37666
+473,Cinemex Plaza Oriente,10,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Canal del Tezontle 1520,Col. Dr. Alfonso Ortíz Tirado,9020,-99.08005,19.38412
+117,Cinemex Tláhuac,10,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Tláhuac 5662,Col. San Lorenzo Tezonco,9790,-99.06056,19.30573
+474,Cinemex La Viga,12,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Calz. de La Viga 1150,Col. Apatlaco,5349,-99.12176,19.3807
+475, Cinemex Vía San Juan,7,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Ignacio Zaragoza 1433 y 2717,Col. Tepalcates,9210,-99.04957,19.39117
+121,Cinemex Lomas Estrella,12,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Tláhuac 4409,Lomas Estrella,9880,-99.09434,19.32132
+119,Cinemex Zaragoza,12,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Calz. Ignacio Zaragoza 2221 ,Col. Paraíso,9230,-99.02909,19.38055
+116,Cinemex Tezontle,10,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Canal de Tezontle 1520,Col. Dr. Alonso Ortiz Tirado,9020,-99.08324,19.38214
+118,Cinemex Iztapalapa,12,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Perif. Arco Oriente 2141,Col. Ejército Constitucionalista,9220,-99.05876,19.38043
+187,Cinépolis Ermita,12,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Calz. Ermita Iztapalapa 3417,Col. Xalpa,9640,-99.0179,19.34765
+114,Cinépolis Portal Churubusco,10,9,Ciudad de México,7,Iztapalapa,1,Iztapalapa,Av. Río Churubusco 583,Col. Sector Popular,9060,-99.12152,19.36878
+77,Cinemex San Antonio,11,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Calle 10 núm. 132,Col. San Pedro de los Pinos ,1180,-99.19193,19.38873
+579,Cinépolis Portal San Ángel,11,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Revolución 1267,Col. Los Alpes,1010,-99.19031,19.36125
+433,Cinépolis VIP Samara,9,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Antonio Dovalí Jaime 70,Col. Santa Fe,1210,-99.25832,19.3678
+606,The Movie Company. Escenaria,10,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. San Jerónimo 263,Tizapan,1090,-99.1987,19.33573
+76,Cinemex Altavista,6,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,"Calz. Desierto de los Leones 52, Pabellón Altavista",Col. San Ángel,1000,-99.1895,19.34877
+451,Cinemex Park Plaza Platino,4,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Javier Barros Sierra 540,Col. Santa Fe,1210,-99.25953,19.36463
+578,Cinépolis VIP Portal San Ángel,4,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Revolución 1267,Col. Los Alpes,1010,-99.19031,19.36125
+916,"Autocinema Coyote, Insurgentes",0,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. de los Insurgentes Sur 1729,Col. Guadalupe Inn,1020,0,0
+453,Cinemanía Loreto,3,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,"Plaza Loreto, Av. Revolución s/n",Col. Tizapán San Ángel,1090,-99.19246,19.33945
+79,Cinemex Loreto,9,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Revolución esq. Río Magdalena,Col. Tizapan San Ángel,1090,-99.19394,19.33886
+575,Cinemex Patio Revolución Platino,6,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Revolución 1837,San Ángel,1000,-99.19137,19.34174
+432,Cinépolis Patio Santa Fe,12,9,Ciudad de México,10,Álvaro Obregón,1,Álvaro Obregón,Av. Prol. Paseo de la Reforma 400,Col. Santa Fe Peña Blanca,1376,-99.25387,19.37786
+481,Cinemás Tláhuac,5,9,Ciudad de México,11,Tláhuac,1,Tláhuac,Av. Tláhuac 5295,Col. Los Olivos,13210,-99.06165,19.30396
+906,Cine Villa Olímpica,1,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Av. Insurgentes Sur 3493,Col. Parques del Pedregal,14020,-99.18587,19.29787
+485,Cinépolis Pabellón Cuemanco,8,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Cañaverales 222,Col. Cuemanco,14360,-99.1071,19.29529
+482,Cinemex Cuicuilco Platino,5,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Av. San Fernando 649,Col. Peña Pobre,14060,-99.18107,19.29819
+132,Cinemex Pericoapa,11,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Av. Canal de Miramontes 3163,Col. Vergel Coapa,14320,-99.12486,19.30343
+483,Cinemex Prado Coapa,10,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Prol. División del Norte 4515,Col. Prado Coapa,14357,-99.13178,19.29035
+484,Cinépolis Paseo Acoxpa,12,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Calz. Acoxpa 430,Col. Residencial Acoxpa,14300,-99.1362,19.30036
+129,Cinépolis Ajusco,10,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Carr. Picacho Ajusco 175 ,Col. Héroes de Padierna,14200,-99.21184,19.29908
+131,Cinemex Cuicuilco,8,9,Ciudad de México,12,Tlalpan,1,Tlalpan,Av. San Fernando 649,Col. Peña Pobre,14060,-99.18105,19.2982
+84,Cinemex Parque Delta,10,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Cuauhtémoc 462,Col. Narvarte,3020,-99.15503,19.40367
+462,Cinemex WTC Platino,5,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Montecito 38,Col. Nápoles,3810,-99.17381,19.39435
+85,Cinemex Universidad,12,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Universidad 740 esq. Miguel Laurent,Sta Cruz Atoyac,3310,-99.16297,19.3729
+86,Cinemex WTC,9,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Montecito 38,Col. Nápoles,3810,-99.17348,19.39431
+461,Cinemex Félix Cuevas Platino,7,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Félix Cuevas 374,Col. Del Valle,3100,-99.17262,19.37258
+82,Cinemex Manacar,9,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Iinsurgentes Sur 1357,Col. Insurgentes Mixcoac,3920,-99.1799,19.3722
+464,Cinépolis VIP Universidad,3,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Universidad 1000,Col. Santa Cruz Atoyac,3310,-99.16561,19.36649
+87,Cinépolis Universidad,17,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Universidad 1000,Col. Santa Cruz Atoyac,3310,-99.16558,19.36646
+463,Cinépolis Patio Universidad ,10,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Popocatépetl 546,Col. Xoco,3330,-99.16669,19.36565
+83,Cinemex Patriotismo,12,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. Patriotismo 229,Col. San Pedro de los Pinos,3800,-99.18102,19.3963
+431,Cineteca Nacional,10,9,Ciudad de México,14,Benito Juárez,1,Benito Juárez,Av. México Coyoacán 389,Col. Xoco,3330,-99.16476,19.36055
+571,Cinemex Parque Delta Platino ,6,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Av. Cuauhtémoc esq. Obrero Mundial,Col. Narvarte,3020,-99.15369,19.40246
+103,Cinemex Reforma 222,11,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Av. Paseo de la Reforma 222,Col. Juárez,6600,-99.16119,19.42853
+471,La Casa del Cine,2,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,"República de Uruguay 52, 2º piso",Centro Histórico,6000,-99.13699,19.43065
+788,Cine Savoy,1,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,16 de Septiembre y Eje Central,Centro,,-99.14066,19.43293
+611,Cine Venus,1,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,República de Chile 32,Centro,6000,-99.1357,19.43776
+470,Cine Tonalá,1,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Tonalá 261,Col. Roma,6760,-99.16049,19.40898
+472,Le Cinéma IFAL,1,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Río Nazas 43,Col. Cuauhtémoc,6500,-99.16671,19.43258
+101,Cinépolis Diana,8,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Av. Paseo de la Reforma 423,Col. Cuauhtémoc,6500,-99.17153,19.42573
+98,Cinépolis Bucareli,6,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Bucareli 63,Col. Juárez,6600,-99.15136,19.43182
+469,Cinépolis Fórum Buenavista,16,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Eje 1 Norte Mosqueta 259,Col. Buenavista,6350,-99.15127,19.45118
+105,Cinemex Cuauhtémoc,12,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,"Antonio M. Anza 20, Pabellón Cuauhtémoc",Col. Roma,6720,-99.15509,19.41159
+468,Cinemex Reforma Casa de Arte ,4,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Río Guadalquivir 104,Col. Cuauhtémoc,6500,-99.16939,19.42731
+100,Cinemex Real,8,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Colón 17 esq. Balderas y Reforma,Centro,6440,-99.14728,19.43631
+99,Cinemex Insurgentes,7,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,San Luis Potosí esq. Insurgentes 214,Col. Roma,6760,-99.16599,19.41274
+102,Cinemex Centro Telmex,10,9,Ciudad de México,15,Cuauhtémoc,1,Cuauhtémoc,Chapultepec 19 esq. Av. Cuauhtémoc,Col. Roma Sur,6700,-99.15476,19.42546
+924,Cine Más Allá (CCD),1,9,Ciudad de México,16,Miguel Hidalgo,0,,Paseo de Reforma s/n esquina Lieja,Col. Juárez,6600,-99.17451,19.4229
+126,Cinemex Pabellón Polanco,7,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Ejército Nacional 980,Col. Chapultepec Morales,11560,-99.20696,19.43835
+478,Cinépolis VIP Plaza Carso,4,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Lago Zúrich 245,Col. Granda Ampliación,11529,-99.20406,19.44169
+476,Cinemex Antara Platino,4,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Av. Ejercito Nacional 843-B,Col. Granada,11520,-99.20378,19.43923
+615,Cine Tacuba,1,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Calz México-Tacuba 692,Tacuba,11410,-99.18485,19.45829
+479,Cinépolis Plaza Carso,5,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Lago Zúrich 245,Col. Granda Ampliación,11529,-99.20404,19.44171
+124,Cinemex Duraznos Platino ,10,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Bosques de duraznos 39,Col. Bosques de las Lomas,11700,-99.24258,19.40333
+127,Cinemex Antara,8,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Av. Ejército Nacional 843-B,Col. Granada,11520,-99.20378,19.43922
+480,Cine Sedena,12,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Av. Industria Militar 1050,Col. Lomas de Sotelo,11200,-99.22068,19.43575
+477,Cinépolis VIP Miyana Polanco,7,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Av. Ejercito Nacional 769,Col. Granada,11570,-99.20021,19.43953
+915,"Autocinema Coyote, Polanco",0,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Lago Zurich 200,"Col. Granada, Polanco",,0,0
+125,Cinemex Legaria,10,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Calz. de Legaria 252,Col. Pensil del Norte,11430,-99.1972,19.45296
+123,Cinemex Cervantes Saavedra ,8,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Blvd. Miguel de Cervantes Saavedra 397,Col. Irrigación,11500,-99.20725,19.44085
+128,Cinemex Galerías,14,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Melchor Ocampo 193,Col. Verónica Anzúres,11300,-99.17118,19.43536
+573,Cinemex Pabellón Polanco Platino ,4,9,Ciudad de México,16,Miguel Hidalgo,1,Miguel Hidalgo,Av. Ejercito Nacional 980,Col. Chapultepec Morales,11560,-99.20696,19.43835
+133,Cinépolis Plaza Aeropuerto,8,9,Ciudad de México,17,Venustiano Carranza,1,Venustiano Carranza,Calz. General Ignacio Zaragoza 270,Santa Cruz Aviación,15540,-99.09688,19.42142
+498,Cinépolis Chedraui Durango,5,10,Durango,5,Durango,1,Victoria de Durango,Blvd. Domingo Arrieta 601,Col. El Refugio,34170,-104.66114,24.01215
+134,Cinépolis Durango,10,10,Durango,5,Durango,1,Victoria de Durango,Blvd. Francisco Villa s/n,Fracc. Jardines de Durango,34200,-104.62936,24.0448
+136,Citicinemas Durango,8,10,Durango,5,Durango,1,Victoria de Durango,Av. Real del Mezquital 101,Real del Mezquital,34199,-104.65169,24.00207
+913,Cineteca de Durango Sala Silvestre Revueltas,0,10,Durango,5,Durango,1,Victoria de Durango,"Juárez 217 Norte, entre Gabino Barreda y Coronado", Zona Centro,34000,-104.67059,24.02909
+135,Cinemex Durango,10,10,Durango,5,Durango,1,Victoria de Durango,Av. Felipe Pescador 1107,Zona Centro,34080,-104.65149,24.03671
+796,Cinemex Durango Platino,4,10,Durango,5,Durango,1,Victoria de Durango,Av. Felipe Pescador 1107,Zona Centro,34080,-104.65149,24.03671
+648,Cinemex Gómez Palacio,8,10,Durango,7,Gómez Palacio,1,Gómez Palacio,Blvd. Miguel Alemán s/n esq. González de la Vega,Col. El Consuelo,35090,-103.47768,25.54956
+818,Cinemex Hamburgo,5,10,Durango,7,Gómez Palacio,1,Gómez Palacio,Calz. Francisco Villa s/n,Col. Rinconadas Hamburgo,35018,-103.50485,25.59478
+211,Cinemex San Miguel Allende,8,11,Guanajuato,3,San Miguel de Allende,1,San Miguel de Allende,Libramiento José Manuel Zavala s/n,Centro,37700,-100.72843,20.90514
+198,Cinépolis Las Américas,9,11,Guanajuato,7,Celaya,1,Celaya,Av. Puerta de Oro del Bajío 203,"Fracc. Jardines de Celaya, Plaza Las Américas",38080,-100.79655,20.51836
+199,Cinépolis Parque Celaya,12,11,Guanajuato,7,Celaya,1,Celaya,Eje Norponiente 801,Col. La Purísima,38130,-100.83837,20.54681
+591,Cinépolis Galerías Celaya,10,11,Guanajuato,7,Celaya,1,Celaya,Eje Nororiente 200,Las Compuertas del Campestre,38060,-100.77951,20.5309
+806,Cinépolis Paseo Dolores ,5,11,Guanajuato,14,Dolores Hidalgo Cuna de la Independencia Nacional,1,Dolores Hidalgo Cuna de la Independencia Nacional,"Av. Norte núm. 65 BIS, Int. Cine",Centro,37800,-100.92912,21.16013
+811,Cine La Mina,1,11,Guanajuato,15,Guanajuato,1,Guanajuato,Calle 6 de la  Condesa,Centro,36000,-101.25473,21.01737
+200,Cinemex Guanajuato,8,11,Guanajuato,15,Guanajuato,1,Guanajuato,"Blvd. Pozuelos s/n, Circuito Interior 1",Col. Lomas de Pozuelos  ,36080,-101.26141,21.01346
+594,Cine Guanajuato,1,11,Guanajuato,15,Guanajuato,1,Guanajuato,Calle  Mulas s/n,Centro,36000,-101.25373,21.01787
+807,Cinépolis VIP Plaza Cibeles Irapuato,4,11,Guanajuato,17,Irapuato,1,Irapuato,Blvd. Villas de Irapuato 1443 local 76 ,Col. Ejido Irapuato,36670,-101.38005,20.68007
+589,Cinema Irapuato Century,1,11,Guanajuato,17,Irapuato,1,Irapuato,Av. Juan José Torres Landa 719,Col. Progresiva El Jaral,36666,-101.34354,20.68115
+201,Cinemex  Plaza Jacarandas,10,11,Guanajuato,17,Irapuato,1,Irapuato,Av. Arboledas  núm. 1200,San Miguelito,36650,-101.3717,20.67021
+202,Cinépolis Plaza Cibeles,14,11,Guanajuato,17,Irapuato,1,Irapuato,Blvd. Villas de Irapauto 1443 Loc. 76,Col. Ejido Irapuato ,36670,-101.38009,20.68004
+519,Cinemex San Roque,8,11,Guanajuato,17,Irapuato,1,Irapuato,Blvd. Enrique Colunga num. 1184 ,Col. 18 de Agosto,36590,-101.34262,20.65756
+208,Cinépolis La Gran Plaza León,10,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Adolfo López Mateos Ote. 1902,Col. Peñitas,37180,-101.68503,21.14336
+204,Cinépolis León,7,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Adolfo López Mateos Ote. 1309,Col. Coecillo,37260,-101.68534,21.14592
+808,Cinemex Plaza Mayor Platino ,4,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Juan Alonso De Torres num. 2002,Col. Valle del Campestre,37150,-101.69653,21.15641
+203,Cinemex Malecón,6,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Mariano Escobedo 2902,Col.  La Martiníca,37500,-101.65993,21.10666
+592,Cinemex Plaza Stadium ,10,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Adolfo López Mateos Ote 1702 ,Col. La Martinica,37500,-101.65854,21.11631
+207,Cinépolis Centro Max,17,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Adolfo López Mateos Ote. 2518  ,Col. San Isidro de Jerez,37530,-101.63671,21.10036
+521,Cinépolis Centro Comercial Altacia,10,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Aeropuerto 104,Cerrito de Jerez Norte,37530,-101.62642,21.09266
+205,Cinépolis Galerías Las Torres,12,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Juan Antonio de Torres Ote. 1314 int. 2,Col. San José del Consuelo,37200,-101.64747,21.14777
+206,Cinemex Plaza Mayor,12,11,Guanajuato,20,León,1,León de los Aldama,Blvd. Juan Alonso de Torres Pte.  2002,Col. Valle del Campestre,37150,-101.69653,21.15645
+809,Cinépolis VIP Centro Comercial Altacia,4,11,Guanajuato,20,León,1,León de los Aldama,"Blvd. Aeropuerto núm. 104, Int. Cine ",Col. Cerrito de Jerez,37530,-101.62599,21.09236
+593,Cinemex Vía Alta Salamanca,12,11,Guanajuato,27,Salamanca,1,Salamanca,Camino a Mancera 214,Col. Las Glorias,36700,-101.23018,20.58456
+522,Cinépolis Paseo San Francisco,6,11,Guanajuato,31,San Francisco del Rincón,1,San Francisco del Rincón,Juventino Rosas 500,Col. Las Palmas,36300,-101.86808,21.03015
+810,Cine Movie Center,1,11,Guanajuato,31,San Francisco del Rincón,1,San Francisco del Rincón,Blvd. Aquiles Serdán núm. 200 ,Col. Infonavit San Francisco,36330,-101.84993,21.02278
+551,Cinema San Luis,2,11,Guanajuato,33,San Luis de la Paz,1,San Luis de la Paz,Calle Niños Héroes 104-110,Centro,37900,-100.51508,21.29773
+550,Cinépolis La Joya,6,11,Guanajuato,37,Silao de la Victoria,1,Silao de la Victoria,Calle 5 de Mayo 120,Col. La Joyita,36130,-101.4168,20.9459
+212,Cinépolis Galería Metropolitana,7,11,Guanajuato,41,Uriangato,1,Uriangato,Blvd. Uriangato 240-D,Col. La Joyita,38983,-101.17432,20.11574
+190,Cinépolis Galerías Acapulco,11,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,"Av. Costera Miguel Alemán 1632, Local J17",Fracc. Magallanes,39880,-99.8814,16.86112
+192,Cinépolis Pie de la Cuesta,12,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Calz. Pie de la Cuesta 239 L-90,Col. Hogar Moderno,39580,-99.91532,16.85802
+526,Cinema Dorado 2000,1,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Plan de Ayala s/n,Col. Progreso,39350,-99.89436,16.86005
+189,Cinépolis La Isla,6,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Blvd. de las Naciones 1813 Int. A-03,Col. Playa Diamante,39897,-99.77573,16.77324
+193,Cinépolis VIP Galerías Diana,4,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Av. Costera Miguel Alemán 1926,Fracc. Magallanes,39670,-99.87362,16.86028
+445,Cinépolis Acapulco Renacimiento,10,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,"Calle 14 esq. Calle 5, lote 718, sector II",Col. Emiliano Zapata,39700,-99.83207,16.8997
+442,Cinemex Las Palmas,12,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Blvd. de las Naciones 802,"Col. Granjas del Marqués, Plaza Las Palmas",39890,-99.81022,16.7972
+444,Cinépolis Galerías  Diana Acapulco,12,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Av. Costera Miguel Alemán 1926,Fracc. Magallanes,39670,-99.87361,16.86043
+194,Cinépolis Sendero Acapulco,8,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Carr. Cayaco-Puerto Márquez 244,Col. Cayaco,39905,-99.81084,16.83281
+553,Cinema Imperial,1,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Av. Cuauhtémoc  125 local 3-B ,Col. Progreso,39350,-99.89396,16.85971
+440,Cinemex Oceanic Acapulco,8,12,Guerrero,1,Acapulco de Juárez,1,Acapulco de Juárez,Costera Miguel Alemán 3111,Fracc. Costa Azul,39850,-99.85021,16.84729
+597,Cine Plaza Las Fuentes,3,12,Guerrero,11,Atoyac de Álvarez,1,Atoyac de Álvarez,Dorotea s/n,Col. Moderna,40945,-100.43821,17.20359
+195,Cinépolis Galerías Chilpancingo,7,12,Guerrero,29,Chilpancingo de los Bravo,1,Chilpancingo de los Bravo,Blvd. René Juaréz Cisneros 130 local 100,Col. Tepango,39095,-99.48609,17.51489
+197,Cinépolis Galerías Tamarindos,7,12,Guerrero,35,Iguala de la Independencia,1,Iguala de la Independencia,Periférico Oriente,Col. Río Balsas,40050,-99.52262,18.34206
+525,Cinema Flamingo,2,12,Guerrero,38,Zihuatanejo de Azueta,1,Zihuatanejo,Paseo de las Gaviotas s/n ,Plaza Ixpamar,40880,-101.60035,17.66083
+524,Cine Paraíso,6,12,Guerrero,38,Zihuatanejo de Azueta,1,Zihuatanejo,Av. Cuauhtémoc 20,Centro,40890,-101.55832,17.63932
+441,Cinépolis Las Américas  Taxco,5,12,Guerrero,55,Taxco de Alarcón,1,Taxco de Alarcón,Libramiento Taxco 27,Col. Pedro Martín,40290,-99.60637,18.5462
+552,Cinema Zirándaro,0,12,Guerrero,73,Zirándaro,1,Zirándaro de los Chávez,Calle José R Bermúdez s/n,Centro,40760,0,0
+621,Cinemanías Actopan,2,13,Hidalgo,3,Actopan,1,Actopan,Cuauhtémoc 22,Centro Sur,42500,-98.94048,20.26715
+732,Cinemas Huejutla,2,13,Hidalgo,28,Huejutla de Reyes,1,Huejutla de Reyes,Cuauhtémoc ,Zona Centro,43000,-98.42064,21.13882
+797,Cinemagic Ixmiquilpan,5,13,Hidalgo,30,Ixmiquilpan,1,Ixmiquilpan,Av. Insurgentes Norte 150,Col. El Fitzhi,42320,-99.20773,20.47183
+213,Cinépolis Plaza Bella Pachuca,7,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,"Av. Revolución 1307, locales del 7 al 13",Col. Periodista,42060,-98.73781,20.11965
+215,Cinemex Plaza Q,12,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,Av. Luis Donaldo Colosio km 7.7,Fracc. Colinas de Plata,,-98.72881,20.08171
+216,Cinépolis VIP Galerías Pachuca,3,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,Av. Camino Real de la Plata 100,Col. Zona Plateada,42080,-98.76607,20.09856
+800,Cinemex Gp Pachuca,10,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,Blvd. Luis Donaldo Colosio 2009,Col. Coscotitlan,42064,-98.75742,20.09432
+574,Cinépolis Galerías,14,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,Av. Camino Real de la Plata 100,Col. Zona Plateada,42080,-98.77024,20.09754
+214,Cinemex Pachuca,7,13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,Av. Luis Donaldo Colosio 1501,Col.  Ex-Hacienda de Coxcocitla,,-98.76161,20.09824
+217,Cinépolis Tepeji del Río,6,13,Hidalgo,63,Tepeji del Río de Ocampo,1,Tepeji del Río de Ocampo,López  Mateos s/n,Col. San Mateo 1a. Sección,42850,-99.33588,19.90288
+564,Cinebox Tula,4,13,Hidalgo,76,Tula de Allende,1,Tula de Allende,Blvd. Tula-Iturbe 118,Col. Villas de Salitre,42808,-99.33369,20.05786
+218,Cinemex Tulancingo,8,13,Hidalgo,77,Tulancingo de Bravo,1,Tulancingo,Blvd. Miguel Hidalgo 1001,Fracc. Santa Ana,,-98.38553,20.07652
+542,DV Cinemas,5,13,Hidalgo,77,Tulancingo de Bravo,1,Tulancingo,Colegio Militar 201,Centro,43600,-98.36871,20.08014
+813,Cinépolis Galerías Metropolitana Autlán,5,14,Jalisco,15,Autlán de Navarro,1,Autlán de Navarro,Prolongación Matamoros 755,Centro,48900,-104.35107,19.76654
+814,Cinemex Cd. Guzmán,6,14,Jalisco,23,Zapotlán el Grande,1,Ciudad Guzmán,Calz. Madero y Carranza núm. 570,Central de Abastos,49000,-103.48308,19.70315
+812,Movie Space,5,14,Jalisco,30,Chapala,1,Chapala,Carret. Chapala - Jocotepec 206 A1,San Antonio Tlayacapan,45922,-103.2431,20.29919
+608,Cinemas del Lago,1,14,Jalisco,30,Chapala,2,Ajijic,"Carr Oriente 54-C, Plaza Bugambilias",,45920,-103.25538,20.29969
+224,Cinépolis Alameda Guadalajara,7,14,Jalisco,39,Guadalajara,1,Guadalajara,Calz. Independencia Sur 28,Centro,44100,-103.34197,20.67453
+223,Cinépolis La Normal,6,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. Ávila Camacho 1275,Col. Alcalde Barranquitas,44270,-103.34942,20.69522
+221,Cinépolis Tolsá,5,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. Enrique Díaz de León 430,Col. Moderna Sector Juárez,44170,-103.35945,20.67077
+227,Cinépolis Centro Magno,19,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. Vallarta 2425,Col. Arcos Sur,44600,-103.38061,20.67436
+222,Cinépolis Independencia,6,14,Jalisco,39,Guadalajara,1,Guadalajara,Calz. Independencia Norte 3295,Col. Ricardo Flores Magón,44300,-103.31816,20.71933
+817,Cinemex La Gourmeteria ,7,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. López Mateos Sur 1710-B,Col. Santa Isabel,45645,-103.44796,20.58715
+513,Sala París,1,14,Jalisco,39,Guadalajara,1,Guadalajara, Av Juárez 133,Centro,44100,-103.34459,20.67508
+493,Cinépolis Fórum Tlaquepaque,16,14,Jalisco,39,Guadalajara,1,Guadalajara,Blvd. Gral Marcelino García Barragán 2077,Prados del Nilo,44840,-103.32043,20.64726
+545,Cine para Adultos,1,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. Dr. Roberto Michel 381,San Carlos,44460,-103.34559,20.66097
+514,Cine para Adultos,1,14,Jalisco,39,Guadalajara,1,Guadalajara,Calz Independencia Norte 382,Col. La Perla,44360,-103.33966,20.67887
+613,Cinemex Sao Paulo Platino,10,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. de las Américas 1501,Col. Providencia,44610,-103.37657,20.70216
+511,Cine del Centro,1,14,Jalisco,39,Guadalajara,1,Guadalajara,Calle Morelos 435,Centro,44100,-103.34864,20.67649
+226,Cinépolis VIP Galerías,8,14,Jalisco,39,Guadalajara,1,Guadalajara,Rafael Sanzio 150,Col. La Estancia,45030,-103.43026,20.67668
+512,Cine Paraíso,1,14,Jalisco,39,Guadalajara,1,Guadalajara,Calle Pedro Moreno 467 ,Centro,44100,-103.3492,20.67578
+612,Cinépolis Oblatos,10,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. Circunvalación No. 2700,Col. Oblatos,44716,-103.29476,20.68747
+225,Cinépolis Arboledas,10,14,Jalisco,39,Guadalajara,1,Guadalajara,"Av. Arboledas 2500, Plaza Fiesta Arboledas",Col. Rinconada de la Arboleda,44570,-103.38655,20.6481
+220,Cinépolis las Torres,4,14,Jalisco,39,Guadalajara,1,Guadalajara,Av. 8 de Julio esq. Lázaro Cárdenas,Col. Morelos,44910,-103.36092,20.64834
+228,Cinemex Ocotlán,6,14,Jalisco,63,Ocotlán,1,Ocotlán,Av. Universidad 950,Col. San Felipe,47800,-102.77085,20.36773
+603,Cinépolis VIP La Isla Puerto Vallarta,4,14,Jalisco,67,Puerto Vallarta,1,Puerto Vallarta,Puerto Vallarta Jalisco 2477,Las Glorias,48333,-105.23848,20.64487
+219,Cinemex Macroplaza Vallarta ,6,14,Jalisco,67,Puerto Vallarta,1,Puerto Vallarta,Av. Francisco Villa  núm. 1526,Col. Los Sauces,48328,-105.21615,20.64514
+229,Cinemex Plaza Caracol Vallarta,8,14,Jalisco,67,Puerto Vallarta,1,Puerto Vallarta,Av. De los Tules 178,Fracc. Zona Hotelera Las Glorias,48310,-105.23261,20.64255
+230,Cinemex Galerías  Puerto Vallarta,10,14,Jalisco,67,Puerto Vallarta,1,Puerto Vallarta,Av. Francisco Medina Ascencio 2920,Zona Hotelera Norte,48313,-105.23986,20.65753
+815,Cinépolis Multicenter El Salto,5,14,Jalisco,70,El Salto,1,El Salto,Carretera Guadalajara - El Verde 2100 local A02,Col. El Verde,45694,-103.2846,20.56077
+602,Cinemagic,5,14,Jalisco,93,Tepatitlán de Morelos,1,Tepatitlán de Morelos,"Circuito Jardín Alteño 10 Int Subancla 4,",Col. Fraccionamiento Jardines del Real,47600,-102.76922,20.79328
+233,Cinemex las Plazas,10,14,Jalisco,97,Tlajomulco de Zúñiga,1,Tlajomulco de Zúñiga,Carr. Guadalajara-Morelia,,45641,-103.48168,20.52242
+234,Cinemex Tlaquepaque,10,14,Jalisco,98,San Pedro Tlaquepaque,1,Tlaquepaque,Av. Niños Héroes 720 esq. Av. Revolución,Col. Camichines,45400,-103.29304,20.63178
+235,Cinépolis Centro Sur,15,14,Jalisco,98,San Pedro Tlaquepaque,1,Tlaquepaque,Periférico Sur 7835,Col. Nueva Santa María,45605,-103.40219,20.60138
+236,Cinépolis Plaza Río Nilo,12,14,Jalisco,101,Tonalá,1,Tonalá,Av. Río Nilo 7377 entre Malecón y Luis Becerra,Col. Lomas de la Soledad,45403,-103.27578,20.64027
+549,Cinemex San Gaspar,10,14,Jalisco,101,Tonalá,1,Tonalá,Prolongación Pablo Valdez 350,Col. Fraccionamiento Los Camichines,45403,-103.25683,20.67589
+237,Cinemex Guadalajara,15,14,Jalisco,101,Tonalá,1,Tonalá,Av. Río Nilo 7540,Fracc. Villas de Oriente,45403,-103.27908,20.64189
+246,Cinépolis Vip Andares,12,14,Jalisco,120,Zapopan,1,Zapopan,Av. Patria 2085,Col. Puerta de Hierro,45116,-103.41255,20.71033
+510,Cine Corona,1,14,Jalisco,120,Zapopan,1,Zapopan,Calle Zaragoza 124,Col. Vallarta Nte.,44100,-103.34974,20.67817
+244,Cinépolis Ciudadela Lifestyle Center,14,14,Jalisco,120,Zapopan,1,Zapopan,Labna 1437,Col. Ciudad del Sol,45050,-103.42012,20.65003
+239,Cinemex Cordilleras,9,14,Jalisco,120,Zapopan,1,Zapopan,Av. Manuel J. Clouthier 888,Jardines Tepeyac,45034,-103.42145,20.65917
+548,Cinépolis Gran Terraza Belenes,8,14,Jalisco,120,Zapopan,1,Zapopan,Av. Los Laureles 1300,Parque Industrial Belenes Norte,45130,-103.40135,20.73894
+607,Cinépolis Real Center,7,14,Jalisco,120,Zapopan,1,Zapopan,Av. Santa Margarita 3600,Col. Poniente,45136,-103.42855,20.7326
+238,Cinépolis Pabellón,17,14,Jalisco,120,Zapopan,1,Zapopan,Av. Acueducto 2380 esq. Paseo del Edén y Av. Patria,"Col. Vista del Bosque, Colinas de San Javier",44660,-103.40637,20.70921
+245,Cinépolis La Gran Plaza,14,14,Jalisco,120,Zapopan,1,Zapopan,Av. Vallarta 3959,Col. Don Bosco,44140,-103.4037,20.67317
+243,Cinépolis Galerías,23,14,Jalisco,120,Zapopan,1,Zapopan,Rafael Sanzio 150,Col. La Estancia,45030,-103.43005,20.67788
+242,Cinemex Zapopan Acueducto,14,14,Jalisco,120,Zapopan,1,Zapopan,Av. Acueducto 6050,Col. Lomas del Bosque,45110,-103.41565,20.72112
+240,Cinemex Plaza Milenium Gdl,8,14,Jalisco,120,Zapopan,1,Zapopan,Av. Adolfo López Mateos Sur 3333-B ,Col. Residencial Victoria ,45060,-103.40553,20.6461
+841,Cinemex Esmeralda Platino,4,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Vía Jorge Jiménez Cantú s/n,Col. Lomas de Valle Escondido,52930,-99.29146,19.55375
+141,Cinépolis VIP Galerías Atizapán,4,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Av. Adolfo Ruiz Cortínes 255 ,Col. Lomas de Atizapan,52977,-99.2742,19.55101
+854,Cinépolis Punto Atizapán,5,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,"Av. Río de San Javier, Fracc. 1 núm. 16",Col. Exhacienda del Pedregal I y I,52916,-99.25009,19.568
+137,Cinépolis Galerías Atizapán,12,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Av. Ruiz Cortines 255,Col. Lomas de Atizapán,52977,-99.27439,19.55084
+893,Cinépolis Plaza Crystal Atizapán,5,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,"Plaza Crystal Atizapán, Av. San Mateo 17",Centro,52900,-99.24385,19.56194
+139,Cinépolis Pedregal Atizapán,8,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Blvd. Ignacio Zaragoza s/n lote 3,Col. El Pedregal,52948,-99.26257,19.594
+590,Cinemex Zona Esmeralda,8,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Vía Jorge Jiménez Cantú s/n,Col. Lomas de Valle Escondido,52930,-99.29035,19.55221
+888,Cinépolis City Center Zona Esmeralda,6,15,México,13,Atizapán de Zaragoza,1,Ciudad López Mateos,Bosque de Arrayan 1,Col. Bosque Esmeralda,52930,-99.28797,19.54915
+668,Cinemex Atlacomulco,7,15,México,14,Atlacomulco,1,Atlacomulco de Fabela,Lib. Jorge Jiménez Cantú 1288,Col. Las Mercedes,50450,-99.8879,19.7897
+143,Cinépolis Zentralia Coacalco,8,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,Av. José López Portillo 145 3er. piso,Col. Santa María Magdalena,55175,-99.08225,19.62645
+146,Cinépolis Coacalco,8,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,Vía Jose Lopez Portillo 220,Col. San Lorenzo Tetlixtac,55755714,-99.08221,19.62648
+850,Cinépolis Cosmopol,8,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,Arquitecto Antonio Flores Torres 43,Col. Bosques del Valle,54910,-99.1256,19.63088
+853,Cinépolis VIP Cosmopol,4,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,Arquitecte Antonio Flores Torres 43,Col. Bosques del Valle,54910,-99.1256,19.63088
+144,Cinemex Las Flores Coacalco,11,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,"Plaza Las Flores, Av José López Portillo 105",Col. Zacuauhtitla,55700,-99.09611,19.63679
+145,Cinépolis Coacalco Power Center,11,15,México,20,Coacalco de Berriozábal,1,San Francisco Coacalco,Via Jose Lopez Portillo 2   ,Col. Calpulli del Valle,55700,-99.1238,19.62739
+664,Cinépolis Plaza Centella Cuautitlán,10,15,México,24,Cuautitlán,1,Cuautitlán,Carr. Cuautitlán-Tultepec 1,Col. San Juan Cuautitlán,54800,-99.14873,19.67945
+142, Cinemex Chalco ,10,15,México,25,Chalco,1,Chalco de Díaz Covarrubias,Av. Vicente Guerrero 25,Centro,56600,-98.89707,19.26429
+496,Cinemex Paseo Chalco,8,15,México,25,Chalco,1,Chalco de Díaz Covarrubias,Blvd. Arturo Montiel Rojas 3,Barrio La Conchita,56600,-98.8981,19.25274
+487,Cinépolis Plaza Chimalhuacán,9,15,México,31,Chimalhuacán,1,Chimalhuacán,Nezahualcóyotl Chimalhuacan s/n,Col. Santa María Nativitas,56335,-98.92809,19.41122
+652,Cinemex Chimalhuacán,8,15,México,31,Chimalhuacán,1,Chimalhuacán,Av. Peñon s/n,Col. Villa Xochitenco,56350,-98.97144,19.4216
+556,Cinemas Center Plaza,1,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. Central 50,"Col. Valle de Anáhuac, Sección B",55248,-99.0331,19.52029
+581,Cine Valle,1,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Valle del Tajo 219,Col. Valle de Aragón,55280,-99.04359,19.50057
+155,Cinépolis Plaza Aragón,19,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. Hank González 120 int. 44 y 102,Col. Rinconada de Aragón,55140,-99.02646,19.53028
+153,Cinemex Coacalco,12,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. Constituyentes José López Bonaga s/n,Col. Guadalupe Victoria,55010,-99.07842,19.62712
+154,Cinépolis Ecatepec,14,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. 1 de Mayo 4 local A-08 esq. Av. Central,Fracc. Las Américas,55075,-99.02318,19.584
+683,Cinemex Paseo Ventura,7,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Primero de Mayo s/n esq. Av. Central,Col. Las Américas,55070,-99.02445,19.58754
+660,Cinemex Cd. Azteca ,12,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. Central Mzna 632 núm. 50,Col. Cd. Azteca,55120,-99.02759,19.5352
+152,Cinemex Palomas,10,15,México,33,Ecatepec de Morelos,1,Ecatepec de Morelos,Av. Central 615,Col. Jardines de Morelos,55070,-99.01192,19.60411
+624,Cinépolis Plaza Cañada,5,15,México,35,Huehuetoca,1,Huehuetoca,"Carr. Jorobas-Tula 02038, Mza 125 lote 1",Col. Santa Teresa,54694,-99.23758,19.84016
+832,Cinemágic Huehuetoca,5,15,México,35,Huehuetoca,1,Huehuetoca,Blvd. Jorobas–Huehuetoca s/n,Col. Salitrillo,54694,-99.208,19.83328
+895,Cinépolis Paseo Interlomas,10,15,México,37,Huixquilucan,1,Huixquilucan de Degollado,Vialidad de la Barranca 6,Col. Jesús del Monte,52764,-99.28317,19.39925
+669,Cinépolis VIP Paseo Interlomas,5,15,México,37,Huixquilucan,1,Huixquilucan de Degollado,Vialidad de la Barranca 6,Col. Jesús del Monte,52764,-99.28317,19.39925
+159,Cinépolis Interlomas,16,15,México,37,Huixquilucan,1,Huixquilucan de Degollado,Blvd. Interlomas y Av. La Herradura 5 local 13,Col. Lomas de Anáhuac,52760,-99.28318,19.39925
+157,Cinépolis VIP Interlomas,8,15,México,37,Huixquilucan,71,Naucalpan de Juárez,"Centro Comercial Interlomas, Blvd. Interlomas y Av. La Herradura 5",Col. Lomas de Anáhuac,52760,-99.2708,19.40195
+164,Cinépolis Patio Ayotla,7,15,México,39,Ixtapaluca,1,Ixtapaluca,Av. Cuauhtémoc 6,Col. Ayotla Centro,56560,-98.92595,19.31133
+835,Cinemex Cortijo,12,15,México,39,Ixtapaluca,1,Ixtapaluca,Carr. México-Cuautla Km.37 Mz. 1 Lt. 13,Col. Sta. Bárbara,56538,-98.88646,19.29607
+161,Cinemex Ixtapaluca,11,15,México,39,Ixtapaluca,1,Ixtapaluca,Av. Cuauhtémoc 3,Col. Santa Bárbara,56538,-98.89023,19.31256
+162,Cinemágic Ixtapaluca,6,15,México,39,Ixtapaluca,1,Ixtapaluca,"Plaza Ixtapaluca, Av. Cuauhtémoc 2000",Col. Santa Bárbara,56538,-98.89712,19.3134
+160,Lumiere Ixtapaluca El Cortijo,10,15,México,39,Ixtapaluca,1,Ixtapaluca,Carr. Federal México-Cuautla s/n,Facc. de la Hacienda Santa Barbara,56538,-98.88063,19.3201
+163,Cinépolis Sendero Ixtapaluca,16,15,México,39,Ixtapaluca,1,Ixtapaluca,Carr. Fed. México-Cuautla 1,Col. Santa Bárbara,56538,-98.88491,19.30189
+517,Cines,4,15,México,48,Jocotitlán,1,Ciudad de Jocotitlán,Carr. Panamericana Ixtlahuaca de Rayón-Atlacomulco de Fabela,Zona Industrial Pasteje,50700,-99.79141,19.64953
+165,Cinemex Lerma,10,15,México,51,Lerma,1,Lerma de Villada,Autopista México-Toluca Km 50,Col. La Isla,52000,-99.50116,19.28277
+168,Cinépolis Galerías Metepec,16,15,México,54,Metepec,1,Metepec,Vialidad Toluca-Metepec. 126 Nte. local 500,Col. La Purísima,52140,-99.61973,19.25876
+167,Cinemex Metepec,14,15,México,54,Metepec,1,Metepec,Av. Tenango 505 ,Col. San Juan Metepec,11300,-99.62876,19.26039
+690,Cinépolis VIP Galerías Metepec,4,15,México,54,Metepec,1,Metepec,Vialidad Toluca-Metepec 126 Nte. local 500,Col. La Purísima,52140,-99.62117,19.25828
+674,Cinemex La Pilita,4,15,México,54,Metepec,1,Metepec,"Plaza La Pilita, H. Galeana 500",Col. San Mateo,52140,-99.59755,19.25771
+892,Cinépolis Satélite,15,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,"Plaza Satélite, Circuito Centro Comercial 2251, entre Pafnucio Padilla y Carlos Arellano",,53100,-99.2339,19.50868
+178,Cinépolis VIP La Cúspide,12,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Av. Lomas Verdes 1200 Int. local E-1,Col. Lomas Verdes,53126,-99.26672,19.51475
+494,Cinépolis Parque Toreo,13,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Blvd. Manuel Ávila Camacho . 5 Int. I-301,Col. Lomas de Sotelo,53390,-99.2191,19.45472
+171,Cinépolis La Cúspide,12,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Av. Lomas Verdes 1200 local E-1,Col. Lomas Verdes 5ta. Sección,53126,-99.2667,19.51475
+851,Cinépolis VIP Parque Toreo,9,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Blvd. Manuel Ávila Camacho 5 ,Col. Lomas de Sotelo,53390,-99.21884,19.45498
+169,Cinépolis Hollywood,5,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Blvd. Manuel Ávila Camacho 20,Col. El Parque,53398,-99.22064,19.45328
+891,Cinépolis VIP Plaza Satélite,7,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,"Circuito Centro Comercial 2251, entre Pafnucio Padilla y Carlos Arellano ",Cd. Satélite,53100,-99.2334,19.50951
+170,Cinemex San Mateo,12,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Av. Jardines de San Mateo s/n,Col. Los Alcanfores,53150,-99.25007,19.48442
+689,Cinemex Lomas Verdes,10,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,"Gran Terraza Lomas Verdes, Colina de La Paz 25",Col. Boulevares,53140,-99.24725,19.49622
+739,Cinemex Cuatro Caminos,5,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Transmisiones Militares  30,,53390,-99.2153,19.457
+740,Cinemex San Esteban,11,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Calz. San Esteban 46,Col. San Esteban Huitzilacasco,53550,-99.23368,19.45884
+910,Cinemex Paseo Hipódromo Platino,4,15,México,57,Naucalpan de Juárez,1,Naucalpan de Juárez,Av. del Conscripto 360,Fracc. Lomas de Hipódromo,53900,-99.23894,19.43077
+174,Cinépolis Nezahualcóyotl,14,15,México,58,Nezahualcóyotl,1,Ciudad Nezahualcóyotl,Calle 4ta. Av. 257,Fracc. Rey Neza,57809,-98.98833,19.40114
+687,Cinépolis Plaza Telmex,17,15,México,58,Nezahualcóyotl,1,Ciudad Nezahualcóyotl,Av. Bordo de Xochiaca 3 local E-23,Col. Jardín Bicentenario,57205,-99.02341,19.42583
+173,Cinépolis Nezahualcóyotl Norte,12,15,México,58,Nezahualcóyotl,1,Ciudad Nezahualcóyotl,Av. Plazas de Aragón 1,Col. Plazas de Aragón,57139,-99.03629,19.48176
+704,Cinépolis Town Center Nicolás Romero,7,15,México,60,Nicolás Romero,1,Ciudad Nicolás Romero,Bvld. Arturo Montiel 700,Col. Vista Hermosa,54414,-99.29233,19.62645
+675,Cinépolis Centro Tepozán,12,15,México,70,La Paz,1,Los Reyes Acaquilpan,Paseo Tepozán 3,Col. Floresta,56240,-98.98946,19.36399
+166,Cinemex Los Reyes,10,15,México,70,La Paz,1,Los Reyes Acaquilpan,Carr. Libre México-Puebla Km. 17.5,Centro,56400,-98.98908,19.35707
+843,Cinemex Mexiquense ,5,15,México,81,Tecámac,1,Tecámac de Felipe Villanueva,Mza. 126 lote 1,"Col. Los Héroes, Ejido de Santo Tomás Chiconautla",55763,-99.01777,19.63014
+833,Cinemex Macroplaza Tecámac,11,15,México,81,Tecámac,1,Tecámac de Felipe Villanueva,Lote 1 Mza. 1 Secc. 1 Carr. Federal Lechería-Texcoco y Autopista Mex Pachuca s/n,Ejido Tecámac,55757,-99.03791,19.61825
+176,Cinépolis Tecamac,8,15,México,81,Tecámac,1,Tecámac de Felipe Villanueva,Carr. Federal México-Pachuca Km. 36.5 local C-1,Col. Hueyotenco,55749,-98.97854,19.69858
+834,Cinemex Texcoco ,10,15,México,99,Texcoco,1,Texcoco de Mora,Av. Juárez Nte. 304,Centro,56100,-98.88158,19.51801
+177,Cinemas Lumiere Texcoco,10,15,México,99,Texcoco,1,Texcoco de Mora,"Plaza San Pablo, Av. Juárez Nte. 304",Centro,56100,-98.88205,19.51758
+492,Cinépolis Gran Patio Texcoco,10,15,México,99,Texcoco,1,Texcoco de Mora,Hidalgo 300,Col. Santa Cruz de Arriba,56130,-98.86564,19.51594
+712,Cinemex Puerta Texcoco,11,15,México,99,Texcoco,42,Villa Santiago Cuautlalpan,Carr. Federal México Texcoco Km. 30.5,Col. Ampl. Presidentes,54800,-98.91285,19.42665
+711,Cinépolis Santiago Tianguistenco,5,15,México,101,Tianguistenco,1,Santiago Tianguistenco de Galeana,Don Catarino González Benítez 806,Centro,52607,-99.47131,19.17672
+840,Cinemex La Joya,10,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Carr. Cuautitlán Melchor Ocampo s/n esq. Libramiento La Joya,Col. Tlaltepan,54800,-99.16677,19.67128
+181,Cinemex Mundo E ,19,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Blvd. Manuel Ávila Camacho 1007,Col. Santa Mónica,54050,-99.2269,19.52472
+894,Cinépolis Magno Centro Interlomas,13,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Blvd. Magnocentro 26,Centro,52760,-99.27235,19.40714
+641,Cinépolis Centro Lago de Guadalupe,10,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Lago de Guadalupe s/n,Col. San Pedro Barrientos,54010,-99.2125,19.5798
+889,Cinépolis Gustavo Baz,7,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Vía Gustavo Baz 29,,54080,-99.2191,19.50851
+836,Cinemex Plaza Tlalne Platino ,5,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Sor Juana Inés de la Cruz 232 y 280,Col. San Lorenzo,54033,-99.20545,19.53896
+180,Cinépolis Multiplaza Arboledas,16,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Autopista México-Querétaro 3985,Col. Industrial Tlalnepantla,54030,-99.20885,19.54463
+713,Cinemex Valle Dorado,9,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Autopista México-Querétaro 3130,Fracc. Industrial Tlaxcolpan,54030,-99.21081,19.54759
+665,Cinemex Plaza Tlalne,14,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Sor Juana Inés de la Cruz 232 y 280,Col. San Lorenzo,54033,-99.20547,19.53897
+852,Cinépolis Pabellón Río de los Remedios,5,15,México,104,Tlalnepantla de Baz,1,Tlalnepantla,Av. Río de los Remedios 5-FS2,Col. San Juan Ixhuatepec,54180,-99.11781,19.51961
+184,Cinemex Toluca,9,15,México,106,Toluca,1,Toluca de Lerdo,Blvd. Alfredo del Mazo 705,Col. Tlacopa,50010,-99.63657,19.31144
+912,Cineteca del Estado de México,0,15,México,106,Toluca,1,Toluca de Lerdo,Av. Eduardo Monroy Cárdenas 2000,San Antonio Buenavista,50110,-99.70379,19.27028
+640,Cinemex Santín,9,15,México,106,Toluca,1,Toluca de Lerdo,Carr. Toluca-Naucalpan 1101,Col. Santa Cruz Otzacatipan,50210,-99.59233,19.3521
+902,Cinépolis IMAX Centro Toluca,1,15,México,106,Toluca,1,Toluca de Lerdo,Av. Primero de Mayo 200-246,Barrio de Sta .Clara,50090,-99.65169,19.29072
+185,Cinépolis Sendero Toluca,12,15,México,106,Toluca,1,Toluca de Lerdo,Miguel Alemán 55,Col. Parque Industrial,52000,-99.55543,19.29076
+886,Cinemex Patio Toluca,7,15,México,106,Toluca,1,Toluca de Lerdo,Miguel Hidalgo Ote. 1350,Barrio de San Sebastian,50090,-99.63264,19.28786
+863,Cinépolis Galerías Toluca,9,15,México,106,Toluca,1,Toluca de Lerdo,Primero de Mayo 700,Col. Santa Ana Tlapaltitlán,50160,-99.62178,19.29052
+183,Cinépolis Grand Plaza,7,15,México,106,Toluca,1,Toluca de Lerdo,Juárez Sur 211 local 125,Centro,50000,-99.65364,19.28705
+577,Cine Apolo,1,15,México,106,Toluca,1,Toluca de Lerdo,Iztaccíhuatl 106,Col. Valle Verde,50140,-99.64206,19.28018
+182,Cinépolis VIP Galerías Toluca,3,15,México,106,Toluca,1,Toluca de Lerdo,Primero de Mayo 700,Col. Santa Ana Tlapaltitlán,50160,-99.62178,19.29052
+151,Cinemex Ecatepec ,10,15,México,108,Tultepec,1,Tultepec,Vía Morelos 300,Col. Tultepec,54970,-99.04759,19.55782
+685,Cinemex Plaza Jardines Tultitlán,4,15,México,109,Tultitlán,1,Tultitlán de Mariano Escobedo,Av. Prados del Norte esq. Pradera,Col. San Pablo de las Salinas,54932,-99.08097,19.66548
+186,Cinemex Perinorte,12,15,México,109,Tultitlán,1,Tultitlán de Mariano Escobedo,Autopista México-Querétaro Km. 32.5,Col. Lechería,54940,-99.18868,19.60813
+764,Cinemex Ciudad Labor Tultitlán,3,15,México,109,Tultitlán,1,Tultitlán de Mariano Escobedo,Blvd. Reforma 42 ,Col. San Francisco Chilpán,54944,-99.17786,19.60868
+703,Cinemex Tultitlán,5,15,México,109,Tultitlán,68,Fuentes del Valle,Av. Mexiquense 4,Col. Casco La Providencia Ex Hacienda Portales,54910,-99.13646,19.64186
+671,Cinema Valle,2,15,México,110,Valle de Bravo,1,Valle de Bravo,F. Gregorio Jiménez Cuenca 100,Col. Sta. María Ahuacatlán,51200,-100.12959,19.18856
+823,Cinema Avandaro,1,15,México,110,Valle de Bravo,1,Valle de Bravo,Av. del Carmen s/n,Col. Avándaro,51200,-100.12409,19.16337
+515,Cinema Colorines,1,15,México,110,Valle de Bravo,12,Colorines,Santa Bárbara 204,Col. Las Jacarandas,51230,-100.21641,19.17614
+903,Cinépolis Zinacantepec,5,15,México,118,Zinacantepec,1,San Miguel Zinacantepec,Av. 16 de Septiembre 351,Barrio San Miguel,51350,-99.73572,19.29188
+604,Cinemex Zumpango,5,15,México,120,Zumpango,1,Zumpango de Ocampo,José Jiménez Cantú s/n,Barrio San Juan,55600,-99.10647,19.79665
+681,Cinemágic Zumpango,5,15,México,120,Zumpango,1,Zumpango de Ocampo,Gante 10,Barrio de San Juan,55600,-99.09998,19.79657
+642,Cine Morelos 2,3,15,México,120,Zumpango,1,Zumpango de Ocampo,Hermenegildo Galeana s/n,Barrio San Juan,55600,-99.09827,19.79687
+700,Cinépolis Town Center Zumpango,11,15,México,120,Zumpango,1,Zumpango de Ocampo,Carr. Zumpango-Los Reyes Acozac 2000,Col. Buenavista,55635,-99.05381,19.79011
+588,Cine Dimensión 35,1,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,20 de Noviembre 204,Col. El Nopalito,54800,-99.1823,19.67355
+150,Cinépolis Luna Parc,10,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Av. 1 de mayo s/n,Centro,54700,-99.21059,19.65759
+838,Cinemex Izcalli Platino,6,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Av. Chalma s/n esq. Autopista México-Querétaro,Col. Jardines de La Hacienda Sur,54721,-99.20769,19.67215
+147,Cinemex La Vía,10,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Carr. Cuautitlan-Melchor Ocampo  29 Esq. Libramiento  ,Col. La Joya,54800,-99.16675,19.67128
+662,Cinemas Gemelos Aurrera Izcalli,4,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Carr. Autopista México-Querétaro Km. 36.5,Col. Arcos del Alba,54750,-99.19868,19.65045
+149,Cinemex Izcalli,12,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Av. Chalma s/n esq. Autopista México-Querétaro,Col. Jardines de La Hacienda Sur,54720,-99.20771,19.67215
+845,Cinemex Plaza Cuautitlán ,7,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Venustiano Carranza 3,Rancho Tenería,54878,-99.17225,19.6565
+645,Cinépolis Perinorte,9,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Hacienda Sierra Vieja 2,Col. Hacienda del Parque,54769,-99.19207,19.60141
+670,Cinemas Lumiere La Vía,4,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Av. Prol. Morelos s/n esq. Av. Ferrocarril,Col. Santa María,54743,-99.17366,19.66929
+489,Cinépolis Arkana Norte,9,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,Autopista México-Querétaro Km. 30.200 s/n,Col. San Martín Obispo Tepetlixpa,54763,-99.18762,19.60484
+890,Cinépolis Izcalli,5,15,México,121,Cuautitlán Izcalli,1,Cuautitlán Izcalli,"Int. Centro Comercial Cuautitlán Periférico, Autop. México-Querétaro Km. 37",,,-99.19833,19.64984
+148,Cinépolis San Miguel Izcalli,10,15,México,121,Cuautitlán Izcalli,7,Axotlán,Av. Huehuetoca s/n local T-2 ,Ex Hda. de San Miguel,54715,-99.21518,19.68909
+600,Cinépolis Sendero Valle de Chalco,8,15,México,122,Valle de Chalco Solidaridad,1,Xico,Av. Ingenieros 370,Col. El Agostadero,56615,-98.95403,19.30056
+754,Cinépolis Plaza San Francisco,5,16,Michoacán de Ocampo,34,Hidalgo,1,Ciudad Hidalgo,Av. Morelos Oriente 149,Col. El Calicanto,61100,-100.54797,19.68466
+647,Cinemex Lázaro Cárdenas,6,16,Michoacán de Ocampo,52,Lázaro Cárdenas,1,Ciudad Lázaro Cárdenas,Av. Tulipanes 548,Col. Unidad 7.4,60950,-102.20995,17.97024
+555,Cinépolis Las Américas,9,16,Michoacán de Ocampo,52,Lázaro Cárdenas,1,Ciudad Lázaro Cárdenas,Av. Las Palmas 1559,Col. El Palmar,60950,-102.21418,17.97805
+753,Cinépolis Vip Las Américas Morelia,9,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Av. Enrique Ramírez Miguel 1000,Col. Las Américas,58270,-101.15881,19.6881
+748,Jeudi 27,1,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Valentín Gómez Farias 265,Centro,58000,-101.19589,19.70538
+250,Cinépolis Plaza Morelia,17,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Paseo de la República 5030,Sector Nueva España,58270,-101.15122,19.68735
+247,Cinépolis Las Américas Morelia,5,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Av. Enrique Ramírez Miguel 1000,Col. Las Américas,58270,-101.15898,19.69002
+249,Cinépolis Escala La Huerta,16,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Calz. La Huerta 3000 ,Exhacienda La Huerta,58080,-101.21847,19.6804
+248,Cinépolis Morelia Centro,6,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Santiago Tapia s/n,Centro Histórico,58000,-101.19566,19.70486
+742,Cinemex Altozano Morelia,4,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Av. Montaña Monarca Norte 1000,Col. Ejido Jesús del Monte,,-101.16174,19.67558
+741,Cinemex Plaza Estadio Morelia,6,16,Michoacán de Ocampo,53,Morelia,1,Morelia,Periférico paseo de la república 3380,Col. Ex Hacienda de Quinceo,58115,-101.22234,19.72896
+495,Cinemex La Piedad,9,16,Michoacán de Ocampo,69,La Piedad,1,La Piedad de Cabadas,Blvd. Lázaro Cárdenas 3001,Col. Lázaro Cárdenas,59375,-102.05616,20.35361
+502,Cinépolis La Piedad,7,16,Michoacán de Ocampo,69,La Piedad,7,La Campana,Av. Juan Pablo II 901,Col. México,59340,-102.02514,20.35421
+637,Cinemas Los Reyes,2,16,Michoacán de Ocampo,75,Los Reyes,1,Los Reyes de Salgado,Allende Norte 20,Centro,60300,-102.47226,19.59071
+251,Cinépolis Sahuayo,8,16,Michoacán de Ocampo,76,Sahuayo,1,Sahuayo de Morelos,Blvd. Lázaro Cárdenas Sur 1190,Fracc. Camino Real Sahuayo,59034,-102.71688,20.04349
+763,Cinépolis Plaza El Prado Tarímbaro,5,16,Michoacán de Ocampo,88,Tarímbaro,148,Terranova,Av. El Prado 200,,58880,-101.12892,19.7774
+252,Cinépolis Uruapan,11,16,Michoacán de Ocampo,102,Uruapan,1,Uruapan,Blvd. Industrial 1241,Col. Villa Uruapa,60120,-102.03687,19.42276
+747,Cinemex Paseo Zamora,7,16,Michoacán de Ocampo,108,Zamora,1,Zamora de Hidalgo,Francisco I. Madero Sur 2001,Centro,59680,-102.29283,19.97364
+253,Cinépolis Plaza Ana,8,16,Michoacán de Ocampo,108,Zamora,1,Zamora de Hidalgo,Calz. Zamora Jacona 1900-2,Col. La Luneta,59680,-102.29524,19.97394
+904,Cinépolis Sentura Zamora,7,16,Michoacán de Ocampo,108,Zamora,1,Zamora de Hidalgo,Carr. Zamora - La Barca 4300,Col. Atecucario,,-102.27795,20.02871
+559,Cine Madero,4,16,Michoacán de Ocampo,108,Zamora,1,Zamora de Hidalgo,"Madero Sur 33, int. 10",Centro,59600,-102.28564,19.98804
+708,Cinemas Leo,5,16,Michoacán de Ocampo,112,Zitácuaro,1,Heróica Zitácuaro,Av. Revolución Sur 272,Col. Fuentes de la Estación,61513,-100.34928,19.42939
+819,Cinemex Cuautla ,12,17,Morelos,6,Cuautla,1,Cuautla,Cam. Real Tetelcingo Calderón,Col. Tierra Larga,62757,-98.94915,18.86868
+623,Cine Robles 70,1,17,Morelos,6,Cuautla,1,Cuautla,Fuerte C. Galeana s/n,Centro,62740,-98.9531,18.81555
+254,Cinépolis Cuautla,12,17,Morelos,6,Cuautla,1,Cuautla,"Antigua Carr. México–Cuautla, Miguel Hidalgo 6",Col. Empleado Postal,62748,-98.93726,18.84779
+529,Cine Premier,1,17,Morelos,7,Cuernavaca,1,Cuernavaca,Plan de Ayala 999,Col. Cuauhnáhuac,62430,-99.21012,18.9235
+884,Cinemex Forum Cuernavaca,7,17,Morelos,7,Cuernavaca,1,Cuernavaca,Jacarandas 103,Col. Flores Magón,62370,-99.1983,18.92665
+885,Cinemex Forum Cuernavaca Platino,5,17,Morelos,7,Cuernavaca,1,Cuernavaca,Jacarandas 103,Col. Flores Magón,62370,-99.1983,18.92665
+257,Cinemex Diana,12,17,Morelos,7,Cuernavaca,1,Cuernavaca,Autopista México-Acapulco km 87.5,Col. Ricardo Flores Magón,62370,-99.19892,18.92077
+820,Cinemex Plaza Bugambilia,10,17,Morelos,7,Cuernavaca,1,Cuernavaca,Rio Balsas s/n,Col. Vista Hermosa,62290,-99.22821,18.93359
+821,Cinemex Plaza Bugambilia Platino,6,17,Morelos,7,Cuernavaca,1,Cuernavaca,Rio Balsas s/n,Col. Vista Hermosa,62290,-99.22821,18.93359
+256,Cinemex Jacarandas,10,17,Morelos,7,Cuernavaca,1,Cuernavaca,Av. Cuauhnahuac Km. 5,Fracc. Alegria Carrefour,62370,-99.19847,18.92177
+259,Cinema Las Plazas,6,17,Morelos,7,Cuernavaca,1,Cuernavaca,"CC. Las Plazas, Gutemberg 3",Centro,62000,-99.23382,18.92243
+258,Cinépolis Cuernavaca,15,17,Morelos,7,Cuernavaca,1,Cuernavaca,Autopista México-Acapulco Km 87.5 s/n,Col. Ricardo Flores Magón ,62370,-99.19374,18.9349
+883,Cinépolis Plaza Portal D10,8,17,Morelos,7,Cuernavaca,1,Cuernavaca,Av. Domingo Diez 1203,Col. Lomas de la Selva,62270,-99.23712,18.95529
+255,Cinépolis VIP Cuernavaca,8,17,Morelos,7,Cuernavaca,1,Cuernavaca,Autopista México-Acapulco km 87.5 s/n,Col. Ricardo Flores Magón,62370,-99.19281,18.93466
+882,Cinépolis VIP Plaza Portal D10,4,17,Morelos,7,Cuernavaca,1,Cuernavaca,Av. Domingo Diez 1203,Col. Lomas de la Selva,62270,-99.23712,18.95529
+527,Cinépolis Plaza Emiliano Zapata,5,17,Morelos,8,Emiliano Zapata,1,Emiliano Zapata,Carr. Zapata Tezoyuca 44,Col. Campo Nuevo,62766,-99.18819,18.83146
+673,Cinépolis Los Cedros Jiutepec,5,17,Morelos,11,Jiutepec,1,Jiutepec,"Av. Eje Norte-Sur 2, Ancla 02",Col. CIVAC,62578,-99.17789,18.91132
+497,Cinépolis Jojutla,5,17,Morelos,12,Jojutla,1,Jojutla,Carr. Cuernavaca-Jojutla 90,Centro,62900,-99.19289,18.61741
+822,Cinépolis Solaz Plaza (Temixco),5,17,Morelos,18,Temixco,1,Temixco,Blvd. Apatlaco 145,Col. Acatlipa,62586,-99.22362,18.83642
+783,Cinema Guayabitos,3,18,Nayarit,4,Compostela,154,Rincón de Guayabitos,Avenida Sol Nuevo Sur 320,,63724,-105.26909,21.02333
+786,Cinemac El Mesón de la Palma,1,18,Nayarit,6,Ixtlán del Río,1,Ixtlán del Río,Av Hidalgo 129 Ote.,,,-104.36754,21.03481
+447,Cinépolis Plaza Cantera Aguamilpa,5,18,Nayarit,17,Tepic,1,Tepic,Carr. Tepic-Aguamilpa 1060,Col. Vistas de la Cantera,63173,-104.83275,21.48884
+446,Cinemex Fórum Tepic,8,18,Nayarit,17,Tepic,1,Tepic,Blvd. Luis Donaldo Colosio 680,Col. Benito Juárez,63175,-104.86706,21.4917
+302,Cinemex Tepic,6,18,Nayarit,17,Tepic,1,Tepic,Av. Insurgentes 368,Zona Centro,,-104.88407,21.49832
+829,Cinemex Fórum Tepic Platino,4,18,Nayarit,17,Tepic,1,Tepic,Blvd. Luis Donaldo Colosio 680,Col. Benito Juárez,63175,-104.86706,21.49171
+448,Cinépolis Lago Real,7,18,Nayarit,20,Bahía de Banderas,1,Valle de Banderas,Av. Tepic 430 Oriente,Col. Valle Dorado,63732,-105.27793,20.7214
+260,Cinépolis Sendero Apodaca,8,19,Nuevo León,6,Apodaca,1,Ciudad Apodaca,"Av. La Concordia 800, int. Ancla 2",Col. Los Ébanos,66612,-100.19321,25.76288
+709,Cinemex Mol Concordia,5,19,Nuevo León,6,Apodaca,1,Ciudad Apodaca,Carr. Mezquital-Santa Rosa 5000,Col. Mezquital,66630,-100.2272,25.78418
+735,Cinépolis Sendero la Fe,10,19,Nuevo León,6,Apodaca,1,Ciudad Apodaca,Carr. Miguel Alemán Km. 18 núm. 789,Col. Parque Industrial,66633,-100.19324,25.76275
+261,Cinépolis Plaza Cadereyta,5,19,Nuevo León,9,Cadereyta Jiménez,1,Cadereyta Jiménez,Blvd. Revolución 1103,Centro,67480,-100.00312,25.57763
+516,Cinépolis La Plazoleta,5,19,Nuevo León,12,Ciénega de Flores,1,Ciénega de Flores,Carr. a Zuazua Km 3.5 s/n,Centro,65550,-100.16894,25.9068
+296,Cinemex Paseo S. Pedro Platino,9,19,Nuevo León,19,San Pedro Garza García,1,San Pedro Garza García,Jose Vasconselos 402 esq. Gómez Morin,Col. Valle del Campestre,66231,-100.35902,25.65021
+767,Cinépolis Vip Avanta Gardens,8,19,Nuevo León,19,San Pedro Garza García,1,San Pedro Garza García,Av. José Vasconcelos 755 A,Col. Del Valle,66220,-100.38936,25.65715
+298,Cinemex Humberto Lobo,12,19,Nuevo León,19,San Pedro Garza García,1,San Pedro Garza García,Av. Humberto Lobo 540-A,Col. Del Valle,,-100.38283,25.66607
+297,Cinemex San Agustín,10,19,Nuevo León,19,San Pedro Garza García,1,San Pedro Garza García,Batallón de San Patricio 1000,,66278,-100.33511,25.6489
+263,Cinemex Plaza Bella Anahuac,10,19,Nuevo León,21,General Escobedo,1,Ciudad General Escobedo,Av. Sendero Norte 1001 esq. República Mexicana,Col. Cda. de Anáhuac,,-100.27578,25.76995
+262,Cinemex Escobedo,6,19,Nuevo León,21,General Escobedo,1,Ciudad General Escobedo,Av. Lic. Raúl Salinas Lozano esq. Paseo de La Amistad,Col. Girasoles,,-100.3193,25.78821
+284,Cinemex Las Plazas Outlet,11,19,Nuevo León,21,General Escobedo,1,Ciudad General Escobedo,Av. Manuel L. Barragán 220,Col. Exhacienda el Canadá,66054,-100.30435,25.77218
+264,Cinépolis Sendero Monterrey,18,19,Nuevo León,21,General Escobedo,1,Ciudad General Escobedo,Av. Sendero Norte 130 Pte.,,66050,-100.30115,25.76707
+268,Cinemex MMC Sun Mall Guadalupe,13,19,Nuevo León,26,Guadalupe,1,Guadalupe,Av. Pablo Livas 7601 Ote.,Col. Tres Caminos,,-100.18633,25.65722
+266,Cinépolis Pablo Livas,11,19,Nuevo León,26,Guadalupe,1,Guadalupe,Av. Pablo Livas 1100,Col. Gustavo Díaz Ordaz,67197,-100.20383,25.66319
+267,Cinemex Lindavista Monterrey,12,19,Nuevo León,26,Guadalupe,1,Guadalupe,Av. Miguel Alemán s/n esq. Av. Constitución,Col. Lindavista,,-100.24792,25.69045
+265,Cinemex Contry,10,19,Nuevo León,26,Guadalupe,1,Guadalupe,Av. Eloy Cavazos 2003,Col. Bosques de La Pastora,67176,-100.25151,25.66201
+503,Cinépolis Valle Soleado,10,19,Nuevo León,26,Guadalupe,1,Guadalupe,Prol. Ruiz Cortines Oriente 450,Col. Valle Soleado,67114,-100.16193,25.70537
+830,Cinemagic Guadalupe,6,19,Nuevo León,26,Guadalupe,1,Guadalupe,"Carr. Reynosa 2301, Plaza el Molinete",Col. 29 de Julio,67196,-100.14965,25.66363
+765,Cinemex MMC Sun Mall Villa Juárez,5,19,Nuevo León,31,Juárez,1,Ciudad Benito Juárez,Carr. Libre a Reynosa esq. Av. Las Torres,Col. Paseo del Prado,,-100.11136,25.64881
+731,Cinépolis Altea Linares,5,19,Nuevo León,33,Linares,1,Linares,Av. Doctor Carlos García Rodríguez 502,Centro,67700,-99.56996,24.86608
+501,Cinépolis Paseo Fundadores,5,19,Nuevo León,38,Montemorelos,1,Montemorelos,"Av. Bolívar 1201, int. Subancla 1",Barrio Mexiquito,67550,-99.81922,25.1907
+857,Cinépolis Vip Cumbres,4,19,Nuevo León,39,Monterrey,1,Monterrey,Hacienda Peñuelas 6773,Col. Residencial Cumbres Las Palmas,64340,-100.39752,25.7333
+837,Cinemex Pueblo Serena Platino ,4,19,Nuevo León,39,Monterrey,1,Monterrey,Carr. Nacional 500,Col. Valle Alto,64989,-100.24705,25.57658
+286,Cinemex Céntrika,12,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Guerrero y Ruiz Cortines 2500 Norte,Fracc. Centrika 2o. Sector,,-100.30877,25.70011
+766,Cinemex Pabellón M,4,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Constitución entre Benito Juárez y José Garibaldi,Centro,,-100.31695,25.66516
+282,Cinemex MMC Sun Mall Villa Juárez,10,19,Nuevo León,39,Monterrey,1,Monterrey,Carr. Libre a Reynosa esq. Av. Las Torres,Col. Paseo del Prado,,-100.11156,25.65223
+281,Cinemex Revolución,10,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Revolución 401,Col. Ladrillera,,-100.27857,25.6553
+285,Cinemex Plaza Real Monterrey,8,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Gonzalitos 315 esq. Pablo González Garza,Col. Jardines del Cerro,64050,-100.35189,25.67914
+273,Cinemex Paseo Tec II,8,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Eugenio Garza Sada 2408,Col. Roma,64700,-100.29413,25.65372
+755,Cinemex Pueblo Serena ,11,19,Nuevo León,39,Monterrey,1,Monterrey,Carr. Nacional 500,Col. Valle Alto,64989,-100.24708,25.57663
+905,Cinemex Garza Sada,3,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Eugenio Garza Sada 343,,,-100.28585,25.64145
+277,Cinemex Lincoln,9,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Abraham Lincoln 8000,Col. Chapultepec Sur,,-100.36835,25.72773
+730,Río Cinemas Cuauhtémoc,4,19,Nuevo León,39,Monterrey,1,Monterrey,George Washington Pte. 505,Centro,64000,-100.31866,25.675
+528,Río Cinemas Plaza,4,19,Nuevo León,39,Monterrey,1,Monterrey,Guadalajara 1000,Col. Mitras Sur,64020,-100.34681,25.68689
+598,Cine Río 70,1,19,Nuevo León,39,Monterrey,1,Monterrey,Serafín Peña Sur 1051,Centro,64000,-100.32625,25.66751
+271,Cinépolis Vip Galerías Monterrey,22,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Insurgentes 2500,Col. Vista Hermosa,64620,-100.35671,25.68127
+846,Cinépolis Vip Nuevo Sur,4,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Revolución esq. Ricardo Covarrubias 2703,Col. Ladrillera,64830,-100.27558,25.65263
+283,Cinemex La Silla,11,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Eugenio Garza Sada 3765,Col. Contry,64860,-100.28246,25.63616
+291,Cinépolis Galerías Monterrey,20,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Insurgentes 2500 int. 510 ,Col. Vista Hermosa,64620,-100.35659,25.68136
+272,Cinépolis Vip Galerías Valle Oriente,8,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Lázaro Cárdenas 1000-1,Col. Valle del Mirador,64750,-100.3149,25.63955
+287,Cinépolis Garza Sada,13,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Eugenio Garza Sada 3367,Col. Alta Vista,64840,-100.28707,25.64336
+909,Cinépolis Vip Esfera Monterrey,6,19,Nuevo León,39,Monterrey,1,Monterrey,Carr. Nacional Km 268 s/n,Col. La Rioja Privada Residencial,64984,0,0
+844,Cinépolis Nuevo Sur,12,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Revolución y Ricardo Covarrubias 2703,Col. Ladrillera,64830,-100.27588,25.65307
+848,Cinépolis Esfera Monterrey,11,19,Nuevo León,39,Monterrey,1,Monterrey,Carr. Nacional Km 268 s/n,Col. La Rioja,64984,-100.24506,25.57565
+849,Cinépolis Adana Lincoln,7,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Abraham Lincoln 5254,Col. San Jorge,64330,-100.36835,25.72772
+289,Cinépolis Galerías Valle Oriente,19,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Lázaro Cárdenas 1000-1,Col. Valle del Mirador,64750,-100.31486,25.63863
+274,Cinépolis Interplaza Monterrey,6,19,Nuevo León,39,Monterrey,1,Monterrey,Morelos y Juárez 101,Centro,64000,-100.31537,25.66802
+278,Cinépolis Patio Lincoln,10,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Abraham Lincoln 4001 ,Col. Puerta de Hierro,64346,-100.40971,25.76462
+290,Cinépolis Cumbres Monterrey,18,19,Nuevo León,39,Monterrey,1,Monterrey,Hacienda Peñuelas 6773,Residencial Cumbres Las Palmas,64340,-100.39726,25.73299
+275,Cinépolis San Roque,12,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Eloy Cabazos Pte. 101   ,Col. Valle de Juárez,67289,-100.15518,25.64031
+914,Cineteca Nuevo León,3,19,Nuevo León,39,Monterrey,1,Monterrey,Fundidora y Adolfo Prieto s/n,Obrera,64010,-100.28433,25.67777
+280,Cinemex Leones,10,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Paseo de Los Leones 1501,Col. Cumbres,,-100.36132,25.69946
+636,Cinemas Raly,4,19,Nuevo León,39,Monterrey,1,Monterrey,Av. Cristóbal Colón 2917,Col. Francisco I Madero,64560,-100.28571,25.68386
+860,Cinépolis Vip Paseo La Fe,4,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av. Las Torres 200,Col. Miguel Alemnán,66470,-100.22094,25.71975
+831,Cinemex Fiesta Anáhuac,10,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Manzana 236,Col. Residencial Anáhuac,66457,-100.31281,25.74387
+300,Cinemex Plaza La Fe,4,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av Rómulo Garza 100,Col. La Fe,66470,-100.21816,25.72371
+301,Cinépolis Citadel,14,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av. Rómulo Garza 410,Col. La Fe,66477,-100.2166,25.72734
+842,Cinépolis Paseo La Fe,8,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av. Las Torres 200,Col. Miguel Alemán,66470,-100.21734,25.71978
+294,Cinemex Las Américas,12,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av. Félix Galván 120 esq. Av. Conductores,Col. Hacienda Los Morales,66550,-100.25083,25.71549
+293,Cinemex Santo Domingo,10,19,Nuevo León,46,San Nicolás de los Garza,1,San Nicolás de los Garza,Av. Santo Domingo 705,Col. Jardín de San Nicolás,,-100.2815,25.75525
+299,Cinemex Santa Catarina,11,19,Nuevo León,48,Santa Catarina,1,Ciudad Santa Catarina,Carr. Monterrey-Saltillo 1050,Col. Independecia del Poniente,66000,-100.44907,25.67619
+622,Cinemas Henry - Huajuapan,5,20,Oaxaca,39,Heroica Ciudad de Huajuapan de León,1,Heroica Ciudad de Huajuapan de León,Narciso Mendoza s/n,Col. Esquipulas,69006,-97.78291,17.80532
+532,Cinemas Henry,5,20,Oaxaca,43,Heroica Ciudad de Juchitán de Zaragoza,1,Heroica Ciudad de Juchitán de Zaragoza,Carretera Panaméricana km 819.5,José F. Gómez,70000,-95.02669,16.44351
+535,Cinemex,5,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Carret.a Monte Albán s/n,Col. Montoya,68036,-96.75931,17.07606
+616,Cine Rex para Adultos,1,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Calle Bustamante 905B,Centro,68000,-96.72627,17.05403
+304,Cinemex Plaza del Valle,8,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Av. Universidad 139 J,Col. Ex-hacienda Candiani,68130,-96.75734,17.07379
+554,Cinemex Plaza Bella,11,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Carretera a Monte Albán s/n,Col. Montoya,68036,-96.75931,17.07596
+305,Cinépolis Oaxaca,15,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Av. Jorge L. Tamayo Castillejos 502,Col. Agencia Candiani,68130,-96.71447,17.04316
+536,Cinemex Macroplaza Oaxaca,11,20,Oaxaca,67,Oaxaca de Juárez,1,Oaxaca de Juárez,Carret. Internacional Cristobal Colón 2002,Santa Lucía del Camino,71228,-96.69458,17.06755
+530,Cinemex Salina Cruz,10,20,Oaxaca,79,Salina Cruz,1,Salina Cruz,México 185 ,Col. Granadito,70610,-95.20892,16.23055
+306,Cinemex Tuxtepec,8,20,Oaxaca,184,San Juan Bautista Tuxtepec,1,San Juan Bautista Tuxtepec,Blvd. Benito Juarez 975,Fracc. Los Ángeles,68370,-96.13249,18.09014
+547,Cine Zicatela,1,20,Oaxaca,318,San Pedro Mixtepec,9,Puerto Escondido,Camino a La Cruz s/n,Centro,,-97.03592,15.83086
+534,Cinemagic Huatulco,4,20,Oaxaca,413,Santa María Huatulco,78,Crucecita,Santa Cruz esq. Framboyán,Col. Crucecita,70987,-96.1363,15.7653
+308,Cinemagic Atlixco,5,21,Puebla,19,Atlixco,1,Atlixco,Blvd. Niños Héroes 805,Col. Revolución,74270,-98.43138,18.89759
+309,Cinépolis Cruz del Sur,12,21,Puebla,41,Cuautlancingo,1,San Juan Cuautlancingo,Blvd. Forjadores de Puebla 1009,Col. Bello Horizonte,72700,-98.25726,19.07295
+917,Cine La Estación,0,21,Puebla,114,Puebla,0,,11 Nte. 1005,Centro Histórico,72000,-98.19546,19.06648
+919,Cineclub Lumiére,0,21,Puebla,114,Puebla,0,,"Av. San Claudio y 18 Sur, Edif. FCE1","San Manuel, Ciudad Universitaria",72589,-98.20172,19.00345
+923,Salas de Cine,0,21,Puebla,114,Puebla,0,,Atlixcáyotl 2210,Reserva Territorial Atlixcáyotl,72810,-98.24119,19.01988
+314,Cinemex del Parque,9,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. Norte y Héroes del 5 de Mayo 1101,Barrio del Refugio,72080,-98.19492,19.07052
+310,Cinépolis Plaza Loreto,4,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,"Av. Ignacio Zaragoza 266, Centro Comercial Plaza Loreto",Col. Los Pinos,72240,-98.17846,19.06585
+210,Cinemex Hermanos Serdán,7,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. Hermanos Serdán núm. 630  ,Col. Pino Suárez,72020,-98.22663,19.07979
+315,Cinemex Triángulo Puebla,10,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,39 Poniente 3515,Col. Las Animas,72400,-98.23549,19.04414
+321,Cinépolis VIP Angelópolis,5,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. del Niño Poblano 2510,Col. Concepción la Cruz,72450,-98.23303,19.03327
+311,Cinépolis Boulevard Puebla,9,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. Héroes del 5 de mayo 907,Centro,72000,-98.19626,19.03891
+508,Cine Colonial,1,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Av 2 Poniente 1108,Centro,72000,-98.2063,19.04958
+630,Cinépolis San Jerónimo,5,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Camino Real a San Jerónimo 1839,Col. Del Valle,72100,-98.22005,19.09659
+609,Cinemex Paseo San Francisco ,11,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Arroyo de Xonaca núm. 1006,Col. El Alto,72000,-98.19085,19.04274
+629,Cinépolis Galerías Serdán,10,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd.Hermanos Serdán 270,Col. Posadas,72060,-98.22528,19.07169
+319,Cinépolis La Noria,12,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Av. 45 Poniente 1937 ,Col. Ex-Hacienda San Miguel,72410,-98.22401,19.03452
+918,Cineclub Cuarto Oscuro,0,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Vía Atlixcáyotl 2299,Col. Atlixcayotl,72810,-98.19722,19.04399
+318,Cinépolis Centro Sur,12,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Av. 11 Sur 11904,Col. Unidad Agua Santa,72490,-98.24799,18.98783
+312,Cinépolis Plaza Crystal,8,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. Valsequillo 115,Col. Las Palmas,72550,-98.21491,19.02242
+509,Cinema Unicornio,1,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,"Calle 42 Nte. 1825, Centro Comercial El Campanario",Col. Cristóbal Colón,72330,-98.16654,19.04905
+241,Cinemex Las Torres,12,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Prolongación Blvd. Municipio Libre  núm. 1910,Ex Hacienda de Mayorazgos,72460,-98.24417,19.00968
+307,Cinemex Solesta,13,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Vía Atlixcáyotl 4931  ,Unidad Territorial Atlixcáyotl,72197,-98.22807,19.03372
+320,Cinépolis Angelópolis,20,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. del Niño Poblano 2510 ,Col. Concepción La Cruz,72450,-98.2328,19.03104
+507,Cine Teresa,1,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Av. 17 Pte. 2315 B,Barrio de Santiago,72410,-98.21967,19.04721
+316,Cinemex Plaza Dorada Puebla,10,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Blvd. Héroes del 5 de Mayo 3126, Col. Ladrillera de Benítez ,72532,-98.20167,19.02861
+317,Cinemex Puebla Centro,11,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Calle 7 Pte. 107  esq. 16 de Septiembre 102,Centro,72000,-98.20012,19.04229
+920,Cinefilia IMACP,1,21,Puebla,114,Puebla,1,Heroica Puebla de Zaragoza,Av. Reforma 1519,Barrio de San Sebastian,72000,-98.21002,19.05012
+506,Autocinema Cocodrilo,1,21,Puebla,119,San Andrés Cholula,1,San Andrés Cholula,Calle 5 Sur 101,Centro,72810,-98.30291,19.05183
+626,Cinépolis Plaza San Diego,11,21,Puebla,119,San Andrés Cholula,1,San Andrés Cholula,Blvd. Forjadores de Puebla 3401,San Diego,72260,-98.29659,19.07638
+870,Sala Nueve,0,21,Puebla,119,San Andrés Cholula,1,San Andrés Cholula,2 Nte 1205-A,San Juan Aquiahuac,72810,-98.29529,19.0559
+313,Cinemex Sonata Platino ,7,21,Puebla,119,San Andrés Cholula,1,San Andrés Cholula,Paseo Sinfonía núm. 4,Lomas de Angelopolis,72830,-98.27812,18.99354
+191,Cinebox,1,21,Puebla,132,San Martín Texmelucan,1,San Martín Texmelucan de Labastida,Blvd. Xicoténcatl s/n,Col. San Martín de Labastida,74000,-98.42321,19.28913
+322,Cinépolis Tehuacán,12,21,Puebla,156,Tehuacán,1,Tehuacán,Calz. Adolfo López Mateos 3800,Col. San Lorenzo Teotipilco,75855,-97.4171,18.46866
+628,Cinemas Reforma,4,21,Puebla,156,Tehuacán,1,Tehuacán,Reforma Sur 104,Centro,75700,-97.39424,18.46269
+631,Cinema Henry,5,21,Puebla,174,Teziutlán,1,Teziutlán,Prol de Mina ,Plaza Crystal La Mesilla,73800,-97.36603,19.80664
+633,Cinemagic Zacatlán,5,21,Puebla,208,Zacatlán,1,Zacatlán,Calle Nigromante 2,Col Sta. Julia,73310,-97.95854,19.93259
+523,Cinemex Candiles,9,22,Querétaro,6,Corregidora,1,El Pueblito,Av. Prol.Candiles 204,Fracc. Camino Real,76921,-100.39451,20.54632
+897,Cinépolis Citadina Corregidora,7,22,Querétaro,6,Corregidora,1,El Pueblito,Av. Constituyentes 1601,Col. El Pueblito,76904,-100.43436,20.53588
+337,Cinemex Boulevares Querétaro,12,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Blvd. Bernardo Quintana 4100,Col. Parques Residenciales,76170,-100.38767,20.61497
+434,Cinépolis Esfera Querétaro,15,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Autopista Querétaro-Celaya km.  600 núm. 5501,Col. Jardines de la Hacienda,76180,-100.40731,20.5763
+338,Cinépolis Sendero Querétaro,12,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,"Av. Revolución 99, Ancla 2",Col. El Rocío,76114,-100.44078,20.61911
+333,Xtreme Plaza Las Américas Querétaro,2,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Av. Constituyentes 183 Ote.,Col. Carretas,76050,-100.3739,20.58773
+335,Cinemex Centro Sur Querétaro,7,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Blvd. Bernardo Quintana 502,Centro Sur,76090,-100.36102,20.56766
+339,Xtreme Zaragoza,2,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Av. Ignacio Zaragoza 150 Pte.,Centro,76000,-100.40016,20.58564
+855,Cinépolis VIP Antea Querétaro,4,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Carr. Querétaro a San Luis Potosí 12401,Col. El Salitre,76127,-100.43681,20.67502
+899,Cinépolis La Victoria,10,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,"Av Constituyentes 40, Zona Dos Extendida",Col. Mercurio,76040,-100.38151,20.58459
+898,Cinépolis VIP La Victoria,4,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,"Av Constituyentes 40, Zona Dos Extendida",Col. Mercurio,76040,-100.38151,20.58459
+334,Cinépolis Plaza del Parque,6,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Prol. Corregidora 691 Nte.,Centro,76168,-100.39173,20.61559
+435,Cinépolis VIP Esfera Querétaro,11,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Autopista Querétaro-Celaya Km 0.600 núm. 5501,Col. Jardines de la Hacienda,76180,-100.40759,20.57561
+655,Cinépolis Antea Querétaro,11,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Carr. Querétaro a San Luis Potosí 12401,Col. El Salitre,76127,-100.43681,20.67502
+896,Cinépolis Peñaflor,5,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,"Plaza Atria Ciudad del Sol, Blvd. Peña Flor 123",,,-100.48047,20.6474
+825,Cinemex Urban Center Jurica,7,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Av. 5 de Febrero s/n,Col. Zona Industrial Benito Juárez,76100,-100.43305,20.64915
+824,Cinemex Constituyentes,10,22,Querétaro,14,Querétaro,1,Santiago de Querétaro,Carr. Libre a Celaya Km. 3.8 s/n,"Corregidora de Querétaro, Ejidos Los Olvera",76000,-100.42378,20.55011
+826,Cinépolis Juriquilla Uptown,8,22,Querétaro,14,Querétaro,58,Juriquilla,Anillo Vial II Fray Junipero Serra,Col. El Salitre,76127,-100.4307,20.67568
+677,Henry Cinemas San Juan del Río,9,22,Querétaro,16,San Juan del Río,1,San Juan del Río,Av. Moctezuma s/n esq. Mercedes Camacho,Col. San Cayetano,76806,-99.96918,20.39125
+856,Cinépolis Paseo del Río,7,22,Querétaro,16,San Juan del Río,1,San Juan del Río,Paseo Central 183,Col. Valle de Oro,76802,-99.98491,20.39421
+679,Cinemex San Juan del Río,12,22,Querétaro,16,San Juan del Río,1,San Juan del Río,Carr. Panamericana 202,Col. La Venta,76800,-100.01159,20.38823
+583,Tu cine de Tequisquiapan,4,22,Querétaro,17,Tequisquiapan,1,Tequisquiapan,"Carr. Federal 120, San Juan del Río Xilitla 100",Col. Hacienda Grande,76750,-99.89932,20.52908
+330,Cinépolis Cozumel,7,23,Quintana Roo,1,Cozumel,1,Cozumel,Av. Rafael E. Melgar 1001 entre calles 15 y 17 Sur,Centro,77600,-86.95856,20.50277
+733,Cinemex Chetumal,8,23,Quintana Roo,4,Othón P. Blanco,1,Chetumal,Av. Erick Paolo Martínez 120,Col. Del Sol,77026,-88.29469,18.52548
+328,Cinépolis las Américas Chetumal,13,23,Quintana Roo,4,Othón P. Blanco,1,Chetumal,Av. Insurgentes km 5.025 s/n,Col. Emancipación de México,77080,-88.32166,18.51888
+736,Cinemex Cumbres La Roca,8,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Blvd. Cumbres esq. Blvd. Luis Donaldo Colosio Sm 310, Mz. 109",Col. Residencial Cumbres,77580,-86.83938,21.11057
+862,Cinemex Los Héroes Cancún,6,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. 20 de Noviembre, mza. 1, lote 158",Col. Los Héroes Cancún,77517,-86.87494,21.1736
+865,Cinépolis VIP Puerto Cancún,6,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Bonampak, Lote 10",Zona Hotelera,77500,-86.80778,21.15988
+324,Cinépolis Vip Plaza las Américas,7,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Tulum Sur 260, Súper Manzana 7",,77500,-86.82435,21.1482
+325,Cinépolis Puerto Cancún,10,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Bonampak Lote 10, int. 1",,77500,-86.8094,21.15945
+614,Cinépolis Plaza Las Américas Cancún,14,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Tulum Sur 260, Súper Manzana 7",,77500,-86.82435,21.1482
+327,Cinépolis La Gran Plaza Cancún,14,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Nichupte, Mz. 18 núm int. 1-4 ",Col. SM 51,77533,-86.8543,21.14056
+864,Cinemex Multiplaza Cancún,10,23,Quintana Roo,5,Benito Juárez,1,Cancún,Av. Kabah esq. Av. de Los Tules s/n,Región Benito Juárez 248,77516,-86.86998,21.1892
+599,Cinépolis Las Tiendas Cancún,5,23,Quintana Roo,5,Benito Juárez,1,Cancún,Av. Tulum 42,Col. Supermanzana 63,77513,-86.82661,21.17252
+326,Cinépolis Cancún Mall,12,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Circuito Vial esq. Av. Costa Maya. Lote 1, ancla 2",,77516,-86.84916,21.1827
+329,Cinemex Outlet Cancún,9,23,Quintana Roo,5,Benito Juárez,1,Cancún,"Av. Andres Quintana Roo, Super Mza. 39, MZ. 10",,77507,-86.84976,21.15062
+323,Cinemex La Isla Cancún,5,23,Quintana Roo,5,Benito Juárez,1,Cancún,Blvd. Colosio s/n,Col. Villa Satelite,83200,-86.76293,21.11056
+332,Cinemex Playa del Carmen,9,23,Quintana Roo,8,Solidaridad,1,Playa del Carmen,Carr. Federal Cancún-Tulum 2100,Col. Ejidal,77712,-87.09836,20.61993
+331,Cinépolis Las Américas Playa del Carmen,12,23,Quintana Roo,8,Solidaridad,1,Playa del Carmen,"Paseo Central SM. 52, Mza. 1",Col. Nuevo Centro Urbano,77710,-87.08196,20.647
+340,Cinemex Ciudad Valles,9,24,San Luis Potosí,13,Ciudad Valles,1,Ciudad Valles,Carr. México-Laredo 100 ,Col. Moctezuma,79040,-99.01239,21.99377
+659,Cinemagic Matehuala,5,24,San Luis Potosí,20,Matehuala,1,Matehuala,Carr. a Villa de la Paz 431 local 33,Fidel Velázquez,78724,-100.65222,23.66889
+491,Cinemas Las Américas I  y II,2,24,San Luis Potosí,20,Matehuala,1,Matehuala,Vicente Guerrero 206,Zona Centro,78700,-100.6411,23.64417
+343,Cinépolis Plaza El Dorado,11,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Nereo Rodríguez Barragán 450,Col. del Valle,78200,-101.00358,22.15508
+649,Cinépolis VIP Plaza San Luis,12,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Sierra Vista Pte. 1010,Col. Lomas del Tecnológico,78215,-101.03027,22.1268
+901,Cinépolis Macro Plaza San Luis Potosí,7,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Dr. Salvador Nava Martínez esq. Vicente Rivera,Col. Nuevo Paseo,78320,-100.95708,22.1436
+344,Cinépolis Plaza Sendero,14,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Benito Juárez 2005,Col. Estrella de Oriente,78396,-100.92312,22.13113
+341,Cinépolis Plaza Tangamanga,5,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Manuel J. Clouthier 263,Fracc. Tangamanga,78250,-101.00146,22.1412
+653,Cinemex Citadella,7,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Salvador Nava Martínez 3125,Fracc. Colinas del Parque,78110,-101.00093,22.13782
+858,Cinemex Citadella Platino ,4,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Av. Salvador Nava Martínez 3125,Fracc. Colinas del Parque,78110,-101.00097,22.13788
+342,Cinemex Plaza El Paseo,10,24,San Luis Potosí,28,San Luis Potosí,1,San Luis Potosí,Rutilo Torres s/n,Col. El Paseo,78320,-100.95484,22.14162
+657,Cinépolis Plaza Citadina San Luis,5,24,San Luis Potosí,35,Soledad de Graciano Sánchez,1,Soledad de Graciano Sánchez,Del Pozo 229,Col. San Andrés,78434,-100.95144,22.18198
+693,Cinemex Paseo Los Mochis,12,25,Sinaloa,1,Ahome,1,Los Mochis,Blvd. Centenario 805 Pte. esq. Blvd. Antonio Rosales,Col. Centro,,-108.99864,25.78661
+696,Cinemex Varsovia,5,25,Sinaloa,1,Ahome,1,Los Mochis,Gabriel Leyva 700 sur,América,81200,-108.99863,25.78662
+847,Cinépolis Sendero Los Mochis,8,25,Sinaloa,1,Ahome,1,Los Mochis,Clemente Valenzuela 149,Miguel Hidalgo,81210,-108.9768,25.8184
+345,Cinemex Los Mochis,11,25,Sinaloa,1,Ahome,1,Los Mochis,Blvd. Jiquilpan,Col. Jardines de Fátima,,-108.9937,25.80688
+658,Citicinemas La Isla,10,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Av. Cancún 1555,Musalá Isla Bonita,80060,-107.36681,24.82391
+349,Cinépolis Culiacán,13,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Blvd. Culiacán 450 Pte.,Col. Recursos Hidráulicos,80100,-107.41386,24.80087
+347,Cinemex Plaza Culiacán,10,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Av. Emiliano Zapata 2151,Col. El Vallado,80110,-107.42451,24.79089
+772,Cinépolis Paseo San Isidro,7,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Blvd. Paseo de los Ganaderos Pte. 1787,Col. Lomas de San Isidro,80197,-107.40183,24.7561
+346,Cinépolis VIP Culiacán,6,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Blvd. Culiacán 450 Pte.,Col. Recursos Hidráulicos,80100,-107.41385,24.80088
+827,Cinemex Barrancos,6,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Av. Benjamin Hill 5720,Col. Infonavit Barrancos,80190,-107.42551,24.74769
+780,Citicinemas Galerías San Miguel,5,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Cerro Monte Largo 1880,Colinas de San Miguel,80000,-107.39464,24.78675
+779,Citicinemas La Isla Salas Premier,4,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Av. Cancún 1555,Musalá Isla Bonita,80060,-107.36681,24.82391
+692,Cinemex Fórum Culiacán Platino,4,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,"Blvd. José Diego Valadez 1676, piso 2",Col. Desarrollo Urbano Tres Ríos,80000,-107.40067,24.814
+348,Cinemex Fórum Culiacán,10,25,Sinaloa,6,Culiacán,1,Culiacán Rosales,Blvd. José Diego Valadez 1676,Col. Desarrollo Urbano Tres Ríos,80000,-107.40195,24.81376
+351,Cinemex Guasave,6,25,Sinaloa,11,Guasave,132,Gabriel Leyva Solano (Benito Juárez),Ignacio Ramírez y Blvd. Central s/n,Col. Guasavito,,-108.466,25.56941
+356,Cinemex Mazatlán,10,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. Insurgentes 1198,Col. Villa del Estereo,,-106.42047,23.2357
+694,Cinemex Galerías Mazatlán,9,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. La Marina,,,-106.45064,23.28022
+697,Cinépolis Santa Rosa,5,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. Luis Donaldo Colosio Murrieta 17301,Col. Valle Dorado,82132,-106.40561,23.25813
+682,Cinépolis Gran Plaza Mazatlán,14,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. Reforma s/n,Col. Alameda,82123,-106.43672,23.24014
+695,Cinemex Galerías Mazatlán Platino,4,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. La Marina ,,,-106.45049,23.28015
+773,Cinépolis Sendero Mazatlán,10,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av. Oscar Pérez Escobosa 8201,Col. Vendadillo,82129,-106.4189,23.27199
+684,Cinemas Gaviotas,6,25,Sinaloa,12,Mazatlán,1,Mazatlán,Av Camarón Sábalo 218,El Dorado,82110,-106.44731,23.24153
+350,Cinemex Guamúchil,5,25,Sinaloa,15,Salvador Alvarado,1,Guamúchil,Blvd. Rosales esq. Francisco Labastida 1042 sur,,,-108.07367,25.4538
+876,Cine Mall,6,26,Sonora,2,Agua Prieta,1,Agua Prieta,Carr. a Janos s/n esq. Av. 15 y 16,Ejidal 1,84259,-109.54746,31.31366
+357,Cinemex Plaza Goya,12,26,Sonora,18,Cajeme,1,Ciudad Obregón,Guerrero 1051 Poniente ,Col. Comuripa,85120,-109.95132,27.49375
+907,Cinépolis Sendero Obregón,10,26,Sonora,18,Cajeme,1,Ciudad Obregón,Calle Diez núm. 2101,Col. Las Misiones,,-109.91296,27.46987
+358,Cinépolis Bella Vista,14,26,Sonora,18,Cajeme,1,Ciudad Obregón,Blvd. Rodolfo Elías Calles 1750 Pte.,Col. Bella Vista,85000,-109.96028,27.48285
+875,Cinemex Cananea ,4,26,Sonora,19,Cananea,1,Heroica Ciudad de Cananea,Carr. Agua Prieta Km 2,,84620,-110.2561,30.99751
+352,Cinemex Guaymas,8,26,Sonora,29,Guaymas,1,Heroica Guaymas,Blvd. Luis Encinas y Calz. García López s/n,Col. La Quinta,85400,-110.92424,27.92934
+874,Cinemex Paseo Solidaridad,8,26,Sonora,30,Hermosillo,1,Hermosillo,Blvd. Solidaridad 650,Col. Libertad,83130,-110.99322,29.11524
+760,Cinemex Encinas,11,26,Sonora,30,Hermosillo,1,Hermosillo,Blvd. Jesús García Morales 2,Col. El Llano,,-110.99243,29.092
+362,Cinépolis Sendero Hermosillo,10,26,Sonora,30,Hermosillo,1,Hermosillo,Av. Periférico Ote. 1274,Col. Perisur,83290,-110.94002,29.03562
+752,Cinépolis Galerías Mall Hermosillo,10,26,Sonora,30,Hermosillo,1,Hermosillo,"Blvd. Cultura 55 Ote., int. Ancla 3",Col. Proyecto Río Sonora,83270,-110.94968,29.06426
+359,Cinemex Mirador Hermosillo,9,26,Sonora,30,Hermosillo,1,Hermosillo,Blvd. José López Portillo esq. Juárez 549,Col. Bachoco,83148,-110.95268,29.1263
+638,Cinépolis Hermosillo,10,26,Sonora,30,Hermosillo,1,Hermosillo,Blvd. Luis Encinas 227 Pte.,Col. San Benito,83190,-110.96587,29.08857
+361,Cinépolis VIP Galerías Mall Hermosillo,4,26,Sonora,30,Hermosillo,1,Hermosillo,"Blvd. Cultura 55 Ote., int. Ancla 3 ",Col. Proyecto Río Sonora,83270,-110.95025,29.06797
+360,Cinemex Metro Centro Hermosillo,10,26,Sonora,30,Hermosillo,1,Hermosillo,Blvd. Colosio esq. Periférico Poniente s/n,Col. Villa Satélite,83200,-110.98362,29.08503
+635,Cinemex Nacozari,3,26,Sonora,41,Nacozari de García,1,Nacozari de García,Reforma 1,Col. Buenos Aires,84340,-109.6835,30.37717
+365,Cinemex Navojoa,8,26,Sonora,42,Navojoa,1,Navojoa,Av. Ignacio Pesquería 807 Norte,Col. Reforma,,-109.44634,27.09166
+364,Cinépolis Nogales Mall,12,26,Sonora,43,Nogales,1,Heroica Nogales,Blvd. El Greco 45,Col. El Greco,84066,-110.94053,31.29132
+756,Citicinemas Puerto Peñasco,6,26,Sonora,48,Puerto Peñasco,1,Puerto Peñasco,Av. 9 Luis Encinas 61,Col. Recinto Portuario,83554,-113.54251,31.3052
+366,Cinépolis San Luis Río Colorado,8,26,Sonora,55,San Luis Río Colorado,1,San Luis Río Colorado,Av. Colima 2508,Col. Campestre,83499,-114.76091,32.4466
+438,Cinemex Cárdenas,7,27,Tabasco,2,Cárdenas,1,Cárdenas,Periferico Carlos Molina 589 esq. Carr. Fed. Cárdenas - Huimanguillo,Ranchería Paso Playa,,-93.37635,17.97474
+699,Cinépolis Plaza Deportiva,8,27,Tabasco,4,Centro,1,Villahermosa,Av. Heróico Colegio Militar s/n,Col. Atasta,86100,-92.94303,17.98034
+701,Cinépolis Sendero Villahermosa,8,27,Tabasco,4,Centro,1,Villahermosa,Circuito Interior Carlos Pellicer Cámara 1020,Col. José María Pino Suárez,86029,-92.91308,18.02014
+391,Cinemex Guayabal,10,27,Tabasco,4,Centro,1,Villahermosa,Periférico Carlos Pellicer Cámara 205,Col. Guayabal ,,-92.92226,17.97222
+392,Cinépolis Las Américas,12,27,Tabasco,4,Centro,1,Villahermosa,Ramón Mendoza Herrera 102,Col. El Recreo,86020,-92.91907,18.01538
+698,Cinépolis San Joaquín,5,27,Tabasco,4,Centro,1,Villahermosa,Periférico Carlos Pellicer Cámara 1059,Col. 18 de Marzo,86140,-92.97009,17.9688
+390,Cinépolis VIP Villahermosa,4,27,Tabasco,4,Centro,1,Villahermosa,Av. Adolfo Ruíz Cortines 1840,Col. Carrizal,86038,-92.96562,17.98884
+393,Cinépolis Villahermosa,15,27,Tabasco,4,Centro,1,Villahermosa,Av. Adolfo Ruiz Cortines 1840,Col. Carrizal,86038,-92.96563,17.98884
+770,Cinemex Altabrisa Platino ,5,27,Tabasco,4,Centro,1,Villahermosa, Periférico Carlos Pellicer Cámara N°129,Col. 1ro De Mayo ,86190,-92.94101,17.96551
+769,Cinemex Altabrisa ,10,27,Tabasco,4,Centro,1,Villahermosa,Periférico Carlos Pellicer Cámara N°129,Col. 1ro De Mayo ,86190,-92.941,17.96551
+705,Cinépolis Comalcalco,5,27,Tabasco,5,Comalcalco,1,Comalcalco,Blvd. Adolfo López Mateos 102,Col. Santo Domingo,86340,-93.21864,18.26742
+774,Cinépolis Paseo Cunduacán,3,27,Tabasco,6,Cunduacán,1,Cunduacán,Av. Periférico 52,Centro ,86690,-93.17691,18.06701
+828, Cinemex Huimanguillo ,3,27,Tabasco,8,Huimanguillo,1,Huimanguillo,Calle General Ignacio Gutiérrez 155,Centro,86400,-93.39743,17.83228
+706,Cinépolis Chedrahui Macuspana,5,27,Tabasco,12,Macuspana,1,Macuspana,Esq. Juárez y Alatorre s/n,Col. Centro,86706,-92.58839,17.76314
+775,Cinépolis Plaza Crystal Paraíso,5,27,Tabasco,14,Paraíso,1,Paraíso,Blvd. Manuel Antonio Romero Zurita s/n,Col. Paraíso,86605,-93.20641,18.39837
+707,CineStars ,3,27,Tabasco,16,Teapa,1,Teapa,Dr. Eduardo Payró 104,Centro,86800,-92.95223,17.5518
+368,Cinemex Mante,5,28,Tamaulipas,21,El Mante,1,Ciudad Mante,Vicente Guerrero 900 Oriente,Villa de Juárez,89860,-98.96167,22.74257
+776,Cinépolis Plaza Fiesta,15,28,Tamaulipas,22,Matamoros,1,Heroica Matamoros,Av. Pedro Cárdenas 110,Fracc. Victoria,87390,-97.50449,25.8497
+373,Cinépolis Sendero Matamoros,11,28,Tamaulipas,22,Matamoros,1,Heroica Matamoros,Av. Constituyentes 300,Hacienda Quinta Real,87315,-97.53485,25.85553
+371,Cinemex Matamoros,9,28,Tamaulipas,22,Matamoros,1863,Hermanos de León,Av. Lauro Villar 1210,Col. Arboledas,87448,-97.47749,25.86534
+376,Cinemex Dos Laredos,8,28,Tamaulipas,27,Nuevo Laredo,1,Nuevo Laredo,15 de Septiembre 3553,Col. Campestre,88278,-99.51253,27.45659
+375,Cinemex Plaza Real Nuevo Laredo,7,28,Tamaulipas,27,Nuevo Laredo,1,Nuevo Laredo,Av. Reforma 4400 esq. Anáhuac,Col. México,88000,-99.51126,27.46055
+374,Cinépolis México Nuevo Laredo,5,28,Tamaulipas,27,Nuevo Laredo,1,Nuevo Laredo,Madero 2810 esq. Guerrero,Centro,88000,-99.50755,27.48772
+377,Cinépolis Paseo Reforma,14,28,Tamaulipas,27,Nuevo Laredo,1,Nuevo Laredo,Av. Reforma 5601,Col. Las Alamedas,88275,-99.51892,27.44312
+381,Cinemex Zona Dorada,10,28,Tamaulipas,32,Reynosa,1,Reynosa,Av. Portes Gil esq. Prolongación Colón,"Colonial Del Prado, Zona Dorada",,-98.27049,26.08526
+380,Cinépolis del Río Plaza Comercial,10,28,Tamaulipas,32,Reynosa,1,Reynosa,Carr. Reynosa-Matamoros s/n,Col. Antonio J. Bermúdez,88727,-98.29107,26.05665
+382,Cinemex Plaza Real Reynosa,14,28,Tamaulipas,32,Reynosa,1,Reynosa,Blvd. Hidalgo 101 esq. Blvd. Las Fuentes,Fracc. Las Fuentes,,-98.31887,26.07355
+778,Cinépolis VIP Plaza Periférico,4,28,Tamaulipas,32,Reynosa,1,Reynosa,"Plaza Periférico, Carr. Reynosa-Monterrey 1000",Col. Lomas del Real de Jarachinas Sur,88730,-98.36404,26.05286
+656,Cinépolis Plaza Citadina Reynosa,5,28,Tamaulipas,32,Reynosa,1,Reynosa,Carr. Reynosa San Fernando 500,Col. Parque Industrial Stiva Alcalá,88796,-98.27506,26.00845
+383,Cinépolis Plaza Periférico,14,28,Tamaulipas,32,Reynosa,1,Reynosa,Carret. Reynosa-Monterrey 1000,Col. Lomas del Real de Jarachinas Sur ,88730,-98.36404,26.05286
+385,Multicinemas Azteca 5,5,28,Tamaulipas,33,Río Bravo,1,Ciudad Río Bravo,Av. Francisco I. Madero 128,Centro,88910,-98.09132,25.98536
+384,Cinemex Paseo Río Bravo,7,28,Tamaulipas,33,Río Bravo,1,Ciudad Río Bravo,Francisco I.Madero 1160 Pte.,Col Del Valle,,-98.07408,25.98226
+718,Cinépolis VIP Tampico Altama,4,28,Tamaulipas,38,Tampico,1,Tampico,Prol. Ejército Mexicano esq. Av. Cuauhtémoc,,,-97.8658,22.24857
+717,Cinépolis Tampico Altama,12,28,Tamaulipas,38,Tampico,1,Tampico,Av. Ejercito Mexicano,Col. Primavera,,-97.86561,22.24859
+389,Cinépolis Tampico,15,28,Tamaulipas,38,Tampico,1,Tampico,Prol. Av Hidalgo 5107,Fracc. Flamboyanes,89330,-97.87305,22.27307
+388,Cinemex Tampico,10,28,Tamaulipas,38,Tampico,1,Tampico,Diagonal Norte Sur No. 1101 - A,Fracc. Tampico,,-97.86174,22.25327
+719,Reforma Cinemas,4,28,Tamaulipas,40,Valle Hermoso,1,Valle Hermoso,Hidalgo E. 2a y 3a,Zona Centro,87500,-97.812,25.67342
+370,Cinépolis  Plaza Campestre,12,28,Tamaulipas,41,Victoria,1,Ciudad Victoria,"Blvd. Tamaulipas 3031, Centro Comercial Plaza Campestre",Fracc. Villa Jardín,87000,-99.14132,23.76222
+369,Cinemex Cd. Victoria,5,28,Tamaulipas,41,Victoria,1,Ciudad Victoria,Av. Juan B. Tijerina 2030,Col. Las Palmas,87000,-99.13989,23.74945
+720,Cinépolis Adelitas,7,28,Tamaulipas,41,Victoria,1,Ciudad Victoria,Jesús Elías Piña 525,Infonavit Adelitas,,-99.15708,23.74959
+430,Cinépolis Gran Patio Tlaxcala,7,29,Tlaxcala,2,Apetatitlán de Antonio Carvajal,1,Apetatitlán,Carr. Apizaco-Puebla 3,Col. El Molinito,90610,-98.20152,19.33836
+702,Cinépolis Plaza Comercial Apizaco,7,29,Tlaxcala,5,Apizaco,1,Ciudad de Apizaco,"Plaza Apizaco, Blvd. 16 de Septiembre 2407",Col. Ferrocarrilera,90347,-98.13185,19.41106
+861,Cinetix Apizaco,4,29,Tlaxcala,5,Apizaco,1,Ciudad de Apizaco,Blvd. Emilio Sánchez Piedras 409,Centro,90300,-98.13745,19.41784
+427,Cines Metropoli Malinche,1,29,Tlaxcala,5,Apizaco,1,Ciudad de Apizaco,Av. Venustiano Carranza 702,Col. San Miguel,90300,-98.14663,19.41529
+428,Cinema City Tlaxcala,6,29,Tlaxcala,33,Tlaxcala,1,Tlaxcala de Xicohténcatl,Guillermo Valle 66,Centro,90000,-98.23265,19.32509
+887,Cinemex Galerías Tlaxcala,11,29,Tlaxcala,33,Tlaxcala,1,Tlaxcala de Xicohténcatl,"Lib. Tlaxcala, Santa María Acuitlapilco s/n",Col. San Sebastián,90111,-98.22869,19.29026
+429,"Cinema City Tlaxcala, Plaza Inn",6,29,Tlaxcala,33,Tlaxcala,1,Tlaxcala de Xicohténcatl,Guillermo Valle 66,Centro,90500,-98.23265,19.32509
+678,Citydigital Cinema,6,29,Tlaxcala,33,Tlaxcala,8,Ocotlán,Carr. Ocotlán Santa Ana s/n,Col. Ocotlán,90100,-98.22071,19.31787
+426,Sala de Cine Miguel N. Lira,1,29,Tlaxcala,33,Tlaxcala,17,Santa María Ixtulco,Camino real,Col. Tlatempa,90105,-98.21445,19.32866
+749,Cinépolis La Florida,5,30,Veracruz de Ignacio de la Llave,3,Acayucan,1,Acayucan,Carr. Coatzacoalcos–Salina Cruz Km. 62+480 s/n,San José,96160,-94.90808,17.93903
+395,Cinemex Boca del Río,10,30,Veracruz de Ignacio de la Llave,28,Boca del Río,1,Boca del Río,Av. Ruíz Cortines esq. S.S. Juan Pablo II,Fracc. S.U.T.S.E.M,94294,-96.10904,19.16139
+537,Cinemex Andamar,11,30,Veracruz de Ignacio de la Llave,28,Boca del Río,1,Boca del Río,Predio Mocambo,Col. Collado o Boticaría,,-96.10348,19.13937
+644,Cinépolis El Dorado,10,30,Veracruz de Ignacio de la Llave,28,Boca del Río,1,Boca del Río,Carr. Paso del Toro-Boca del Río-Antón Lizardo 4405,San José,94290,-96.10341,19.09326
+394,Cinépolis VIP El Dorado Veracruz,6,30,Veracruz de Ignacio de la Llave,28,Boca del Río,1,Boca del Río,"Carr. Paso del Toro-Boca del Río, Antón Lizardo 4405",San José,94290,-96.10334,19.09335
+396,Cinépolis Las Américas Veracruz,16,30,Veracruz de Ignacio de la Llave,28,Boca del Río,1,Boca del Río,Av. Las Américas s/n,Ylang Ylang,94290,-96.10668,19.13786
+762,Cinépolis VIP Las Américas Veracruz,5,30,Veracruz de Ignacio de la Llave,28,Boca del Río,37,Veracruz,Av. Las Américas s/n 3er. nivel,Col. Ylang Ylang,94290,-96.10698,19.14054
+873,Cinemex Fórum Coatzacoalcos Platino,4,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,1,Coatzacoalcos,Km 8 de La Antigua Carr. Coatzacoalcos-Minatitlán,El Tesoro,96536,-94.47445,18.14297
+399,Cinemex Fórum Coatzacoalcos,9,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,1,Coatzacoalcos,Km. 8 de la Antigua Carr. Coatzacoalcos-Minatitlan,El Tesoro,96536,-94.48748,18.14356
+397,Cinépolis Patio Coatzacoalcos,10,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,1,Coatzacoalcos,Av. Maleón Costero 1701,Col. Paraíso,96520,-94.46836,18.14975
+872,Cinépolis Sendero Coatzacoalcos,8,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,1,Coatzacoalcos,Av. Dr. José Lemarroy Carreón esq. Av. Profr. Francisco Morosini Cordero ,Puerto México,96510,-94.51481,18.14463
+488,Cinemex El Palmar,8,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,1,Coatzacoalcos,Av. Palmas 101,Paraíso,96520,-94.47448,18.14283
+750,Cinemex Córdoba,7,30,Veracruz de Ignacio de la Llave,44,Córdoba,1,Córdoba,Av. 1 núm. 3511,Zona Industrial,94690,-96.92167,18.88256
+538,Cinépolis Plaza Shangril-La,8,30,Veracruz de Ignacio de la Llave,68,Fortín,1,Fortín de las Flores,Av. Los Pinos 4023,Santa Leticia,94470,-96.99917,18.90366
+402,Cinépolis Plaza Crystal,6,30,Veracruz de Ignacio de la Llave,87,Xalapa,1,Xalapa-Enríquez,Av. Independencia esq. Lázaro Cárdenas,Francisco Villa,91150,-96.90666,19.53866
+871,Cinépolis VIP Las Américas Xalapa,4,30,Veracruz de Ignacio de la Llave,87,Xalapa,1,Xalapa-Enríquez,"Carr. Xalapa Veracruz Km 2 núm. 680, Ancla 3",Pastoressa,91193,-96.87772,19.51232
+412,Cinépolis Plaza Las Américas Xalapa,15,30,Veracruz de Ignacio de la Llave,87,Xalapa,1,Xalapa-Enríquez,Carr. Xalapa-Veracruz km 2 núm. 680,Col. Pastoressa,91193,-96.8777,19.51239
+925,Cinema 21,2,30,Veracruz de Ignacio de la Llave,87,Xalapa,1,Xalapa-Enríquez,José María Mata 6,Centro,91000,-96.91946,19.52738
+403,Cinépolis Plaza Museo,10,30,Veracruz de Ignacio de la Llave,87,Xalapa,1,Xalapa-Enríquez,Lucio Blanco 45,Obrero Campesino,91020,-96.93366,19.54858
+569,Cinépolis Chedraui Martínez de la Torre,5,30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,1,Martínez de la Torre,Blvd. Alfino Flores-B 903,Adolfo Ruíz Cortines,93607,-97.06335,20.07101
+543,Cinemex Minatitlán,7,30,Veracruz de Ignacio de la Llave,108,Minatitlán,1,Minatitlán,Blvd. Instituto Tecnológico 24,Insurgentes Norte,96710,-94.58336,17.99627
+413,Cinépolis Plaza Minatitlán,10,30,Veracruz de Ignacio de la Llave,108,Minatitlán,1,Minatitlán,Emiliano Zapata 10,Insurgentes Sur,96710,-94.57482,17.99492
+869,Cinemex Plaza Faro,5,30,Veracruz de Ignacio de la Llave,118,Orizaba,1,Orizaba,Sur 35 esq. Vía FFCC ,Orizaba,94300,-97.08752,18.84732
+625,Cinépolis Plaza Valle Orizaba,12,30,Veracruz de Ignacio de la Llave,118,Orizaba,1,Orizaba,"Av. Circunvalación 1430, int. A-02",Col. Espinal,94330,-97.09714,18.86209
+758,Cinemas Henry Poza Rica,7,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,1,Poza Rica de Hidalgo,Unión s/n esq. Michoacán y Oaxaca,México,93310,-97.45205,20.5485
+407,Cinemex Patio Poza Rica,12,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,1,Poza Rica de Hidalgo,"Carr. Poza Rica Cazones km. 50, núm. 4706",La Rueda,93306,-97.43753,20.57002
+406,Cinemex Poza Rica,6,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,1,Poza Rica de Hidalgo,Av. Puebla 502,Palma Sola,93390,-97.46592,20.54297
+868,Cinépolis Río Blanco,5,30,Veracruz de Ignacio de la Llave,138,Río Blanco,1,Río Blanco,Av. Veracruz 21,Los Pinos,94732,-97.14694,18.83638
+745,Cinemas San Andrés,3,30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,1,San Andrés Tuxtla,Ignacio de la Llave 35,Centro,95700,-95.21151,18.44965
+744,Cine Club Tauro Digital,1,30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,1,Soledad de Doblado,José María Morelos Norte 111,Centro,94240,-96.42272,19.04742
+408,Cinépolis Plaza Crystal Tuxpan,7,30,Veracruz de Ignacio de la Llave,189,Tuxpan,1,Túxpam de Rodríguez Cano,Av. Blvd. Demetrio Ruiz Malerva 283 int. Ancla 1,Zapote Gordo,92860,-97.42079,20.95081
+410,Cinépolis Plaza del Puerto,11,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Av. Rafael Cuervo 1150,Reserva Tarimoya ,91850,-96.18632,19.21414
+610,Cinebox Coyol,6,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Av. Eje 1 Poniente 924 esq. Laguna de las Tortugas,Palmas del Coyol,91779,-96.15329,19.16473
+409,Cinemex Los Pinos,10,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Av. Rafael Cuervo entre Playa Sola y Playa del Rey,Playa Linda,,-96.17423,19.21518
+757,Cinemex Las Palmas Veracruz,12,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Av. Miguel Ángel de Quevedo 3852,Cristobal Colón,91755,-96.15342,19.19662
+867,Cinemex Nuevo Veracruz Platino,4,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Km 435.3 de la Carr. México-Xalapa s/n,El Laurel de Buenavista,91697,-96.18904,19.17525
+504,Cinemex Nuevo Veracruz,8,30,Veracruz de Ignacio de la Llave,193,Veracruz,1,Veracruz,Km 435.3 de la Carr. México-Xalapa s/n,El Laurel de Buenavista,91697,-96.18908,19.17547
+421,Cinépolis Las Américas Mérida,14,31,Yucatán,50,Mérida,1,Mérida,Calle 21 núm. 331 x 50 y 52,Col. Miguel Hidalgo,97220,-89.64881,20.99236
+415,Cinépolis Vip Mérida Altabrisa,4,31,Yucatán,50,Mérida,1,Mérida,Calle 7 núm. 45,Col. Maya,97134,-89.58502,21.01853
+781,Cines Siglo XXI,6,31,Yucatán,50,Mérida,1,Mérida,C. 60 Norte núm. 299E Ex Cordemex,Col. Revolución,97110,-89.62986,21.03326
+724,Cinemex Galerías Mérida Platino,4,31,Yucatán,50,Mérida,1,Mérida,Calle 60 núm. 299 Carr. Mérida-Progreso Km. 8.5 ,Col. Revolución,,-89.63125,21.03896
+419,Cinépolis Sendero Mérida,12,31,Yucatán,50,Mérida,1,Mérida,Calle 14 núm. 70,Col. Chuminopolis ,C.P. 97158,-89.59742,20.97662
+417,Cinépolis Mérida Altabrisa,10,31,Yucatán,50,Mérida,1,Mérida,Calle 7 núm. 45,Col. Maya,97134,-89.58502,21.01853
+418, Cinemex Macroplaza Mérida,10,31,Yucatán,50,Mérida,1,Mérida,Calle 33 núm. 200-A y Chichi Suárez,Col. Itzimná Polígono núm. 108,,-89.57442,20.99844
+416,Cinemex Gran Plaza Mérida,7,31,Yucatán,50,Mérida,1,Mérida,Calle 75 núm. 196 y Diagonal 50,Col. Montes de Amé,C.P. 97115,-89.62572,21.03041
+414,Cinemex Rex Mérida,2,31,Yucatán,50,Mérida,1,Mérida,"Calle 57 núm. 552 B X 72,Frente Al Parque De Santiago",Centro,,-89.62968,20.97106
+723,Cinemex City Center Mérida,8,31,Yucatán,50,Mérida,1,Mérida,Calle 30 núm. 185 Mz. 474 Secc. 16,Col. San Ramón Norte,97117,-89.60441,21.03813
+725,Cinemex Península Montejo Platino,8,31,Yucatán,50,Mérida,1,Mérida,Av. Prol. Paseo Montejo núm. 33,Col. Benito Juárez Norte,,-89.62005,21.02012
+721,Cinépolis Plaza Kukulcán,7,31,Yucatán,50,Mérida,1,Mérida,Calle 99 núm. 300,Col. Ampliación Salvador Alvarado Sur,C.P. 97196,-89.59154,20.94088
+722,Cinemex Canek,12,31,Yucatán,50,Mérida,1,Mérida,Av. Canek Calle 59–A núm. 277,Fracc. Yucalpeten,,-89.66302,20.99011
+726,Cinemex Uptown Mérida,6,31,Yucatán,50,Mérida,1,Mérida,"Av. Correa Racho 34 x Av. José Vasconcelos, Plaza Uptown",Col. Vista Alegre,97134,-89.58288,21.01194
+420,Cinemex Galerías Mérida,8,31,Yucatán,50,Mérida,1,Mérida,Calle 60 núm. 229 Carr. Mérida-Progreso Km. 8.5,Cordemex,97115,-89.63125,21.03897
+727,Cines Progreso,2,31,Yucatán,59,Progreso,1,Progreso,"Calle 27,",Centro,97320,-89.66135,21.28555
+782,Cinema Tizimín,2,31,Yucatán,96,Tizimín,1,Tizimín,Calle 51 núm. 424,,97700,-88.15562,21.14438
+729,Cine Universal Valladolid,1,31,Yucatán,102,Valladolid,1,Valladolid,Calle 51 núm. 248,,,-88.20025,20.68294
+728,Cinemex Valladolid,3,31,Yucatán,102,Valladolid,1,Valladolid,Calle 42,Col. Santa Lucia,C.P. 97780,-88.20104,20.70191
+422,Cinemex Fresnillo,4,32,Zacatecas,10,Fresnillo,1,Fresnillo,Francisco García Salinas 510 ,Centro,98097,-102.86418,23.17314
+423,Cinemex Zacatecas,10,32,Zacatecas,56,Zacatecas,1,Zacatecas,Av. Francisco Garcia Salinas esq. Sevilla s/n,Barrio Garcia Salinas,98018,-102.54723,22.75816
